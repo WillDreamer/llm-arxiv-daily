@@ -6,6 +6,7 @@
     <li><a href=#llm-evaluation>LLM Evaluation</a></li>
     <li><a href=#llm-mllm>LLM MLLM</a></li>
     <li><a href=#video-understanding>Video Understanding</a></li>
+    <li><a href=#molecular-science>Molecular Science</a></li>
   </ol>
 </details>
 
@@ -3881,3 +3882,10 @@
 
 <p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
 
+## Molecular Science
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+
+
+<p align=right>(<a href=#updated-on-20250219>back to top</a>)</p>
