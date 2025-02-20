@@ -1,5 +1,5 @@
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Xuchen-Li"
+user_name: "WillDreamer"
 repo_name: "llm-arxiv-daily"
 show_authors: True
 show_links: True
