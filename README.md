@@ -1,4 +1,4 @@
-## Updated on 2025.02.24
+## Updated on 2025.02.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,7 +23,7 @@
 |**2025-02-19**|**Enhancing LLM-Based Recommendations Through Personalized Reasoning**|Jiahao Liu et.al.|[2502.13845](http://arxiv.org/abs/2502.13845)|null|
 |**2025-02-19**|**MCTS-KBQA: Monte Carlo Tree Search for Knowledge Base Question Answering**|Guanming Xiong et.al.|[2502.13428](http://arxiv.org/abs/2502.13428)|null|
 |**2025-02-19**|**MM-Verify: Enhancing Multimodal Reasoning with Chain-of-Thought Verification**|Linzhuang Sun et.al.|[2502.13383](http://arxiv.org/abs/2502.13383)|**[link](https://github.com/aurora-slz/mm-verify)**|
-|**2025-02-18**|**Grounding LLM Reasoning with Knowledge Graphs**|Alfonso Amayuelas et.al.|[2502.13247](http://arxiv.org/abs/2502.13247)|null|
+|**2025-02-22**|**Grounding LLM Reasoning with Knowledge Graphs**|Alfonso Amayuelas et.al.|[2502.13247](http://arxiv.org/abs/2502.13247)|null|
 |**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137](http://arxiv.org/abs/2502.13137)|null|
 |**2025-02-18**|**Flow-of-Options: Diversified and Improved LLM Reasoning by Thinking Through Options**|Lakshmi Nair et.al.|[2502.12929](http://arxiv.org/abs/2502.12929)|**[link](https://github.com/flagshippioneering/flow-of-options)**|
 |**2025-02-18**|**S $^2$ R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning**|Ruotian Ma et.al.|[2502.12853](http://arxiv.org/abs/2502.12853)|**[link](https://github.com/nineabyss/s2r)**|
@@ -235,7 +235,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -321,7 +321,7 @@
 |**2025-02-21**|**User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation**|Sojeong Yun et.al.|[2502.15229](http://arxiv.org/abs/2502.15229)|null|
 |**2025-02-21**|**Understand User Opinions of Large Language Models via LLM-Powered In-the-Moment User Experience Interviews**|Mengqiao Liu et.al.|[2502.15226](http://arxiv.org/abs/2502.15226)|null|
 |**2025-02-21**|**Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs**|Tingting Chen et.al.|[2502.15224](http://arxiv.org/abs/2502.15224)|null|
-|**2025-02-21**|**FormalSpecCpp: A Dataset of C++ Formal Specifications created using LLMs**|Madhurima Chakraborty et.al.|[2502.15217](http://arxiv.org/abs/2502.15217)|null|
+|**2025-02-21**|**FormalSpecCpp: A Dataset of C++ Formal Specifications created using LLMs**|Madhurima Chakraborty et.al.|[2502.15217](http://arxiv.org/abs/2502.15217)|**[link](https://github.com/MadhuNimmo/FormalSpecCpp)**|
 |**2025-02-21**|**The Evolving Landscape of LLM- and VLM-Integrated Reinforcement Learning**|Sheila Schoepp et.al.|[2502.15214](http://arxiv.org/abs/2502.15214)|null|
 |**2025-02-21**|**Unveiling Attractor Cycles in Large Language Models: A Dynamical Systems View of Successive Paraphrasing**|Zhilin Wang et.al.|[2502.15208](http://arxiv.org/abs/2502.15208)|null|
 |**2025-02-21**|**Lung-DDPM: Semantic Layout-guided Diffusion Models for Thoracic CT Image Synthesis**|Yifan Jiang et.al.|[2502.15204](http://arxiv.org/abs/2502.15204)|null|
@@ -3687,7 +3687,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -4043,5 +4043,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250224>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250225>back to top</a>)</p>
 
