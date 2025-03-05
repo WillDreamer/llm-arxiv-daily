@@ -17,7 +17,7 @@ layout: default
 |**2025-03-03**|**SRAG: Structured Retrieval-Augmented Generation for Multi-Entity Question Answering over Wikipedia Graph**|Teng Lin et.al.|[2503.01346](http://arxiv.org/abs/2503.01346)|null|
 |**2025-03-03**|**MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation**|Yi Wang et.al.|[2503.01298](http://arxiv.org/abs/2503.01298)|null|
 |**2025-02-28**|**Personalized Causal Graph Reasoning for LLMs: A Case Study on Dietary Recommendations**|Zhongqi Yang et.al.|[2503.00134](http://arxiv.org/abs/2503.00134)|null|
-|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|null|
+|**2025-02-28**|**Contextualizing biological perturbation experiments through language**|Menghua Wu et.al.|[2502.21290](http://arxiv.org/abs/2502.21290)|**[link](https://github.com/genentech/perturbqa)**|
 |**2025-02-28**|**Rectifying Belief Space via Unlearning to Harness LLMs' Reasoning**|Ayana Niwa et.al.|[2502.20620](http://arxiv.org/abs/2502.20620)|null|
 |**2025-02-27**|**FINEREASON: Evaluating and Improving LLMs' Deliberate Reasoning through Reflective Puzzle Solving**|Guizhen Chen et.al.|[2502.20238](http://arxiv.org/abs/2502.20238)|**[link](https://github.com/DAMO-NLP-SG/FineReason)**|
 |**2025-02-27**|**Collaborative Stance Detection via Small-Large Language Model Consistency Verification**|Yu Yan et.al.|[2502.19954](http://arxiv.org/abs/2502.19954)|**[link](https://github.com/qzqdz/CoVer)**|
@@ -26,7 +26,7 @@ layout: default
 |**2025-03-03**|**Towards Multimodal Large-Language Models for Parent-Child Interaction: A Focus on Joint Attention**|Weiyan Shi et.al.|[2502.19877](http://arxiv.org/abs/2502.19877)|null|
 |**2025-02-26**|**Weaker LLMs' Opinions Also Matter: Mixture of Opinions Enhances LLM's Mathematical Reasoning**|Yanan Chen et.al.|[2502.19622](http://arxiv.org/abs/2502.19622)|null|
 |**2025-02-26**|**General Reasoning Requires Learning to Reason from the Get-go**|Seungwook Han et.al.|[2502.19402](http://arxiv.org/abs/2502.19402)|null|
-|**2025-02-26**|**BIG-Bench Extra Hard**|Mehran Kazemi et.al.|[2502.19187](http://arxiv.org/abs/2502.19187)|null|
+|**2025-02-26**|**BIG-Bench Extra Hard**|Mehran Kazemi et.al.|[2502.19187](http://arxiv.org/abs/2502.19187)|**[link](https://github.com/google-deepmind/bbeh)**|
 |**2025-02-25**|**Scalable Best-of-N Selection for Large Language Models via Self-Certainty**|Zhewei Kang et.al.|[2502.18581](http://arxiv.org/abs/2502.18581)|null|
 |**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449](http://arxiv.org/abs/2502.18449)|null|
 |**2025-02-25**|**Towards Thinking-Optimal Scaling of Test-Time Compute for LLM Reasoning**|Wenkai Yang et.al.|[2502.18080](http://arxiv.org/abs/2502.18080)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2025-02-21**|**Evaluating Social Biases in LLM Reasoning**|Xuyang Wu et.al.|[2502.15361](http://arxiv.org/abs/2502.15361)|null|
 |**2025-02-21**|**Stepwise Informativeness Search for Improving LLM Reasoning**|Siyuan Wang et.al.|[2502.15335](http://arxiv.org/abs/2502.15335)|null|
 |**2025-02-21**|**Latent Factor Models Meets Instructions:Goal-conditioned Latent Factor Discovery without Task Supervision**|Zhouhang Xie et.al.|[2502.15147](http://arxiv.org/abs/2502.15147)|null|
-|**2025-02-19**|**SIFT: Grounding LLM Reasoning in Contexts via Stickers**|Zihao Zeng et.al.|[2502.14922](http://arxiv.org/abs/2502.14922)|null|
+|**2025-02-19**|**SIFT: Grounding LLM Reasoning in Contexts via Stickers**|Zihao Zeng et.al.|[2502.14922](http://arxiv.org/abs/2502.14922)|**[link](https://github.com/zhijie-group/sift)**|
 |**2025-02-18**|**Think Inside the JSON: Reinforcement Strategy for Strict LLM Schema Adherence**|Bhavik Agarwal et.al.|[2502.14905](http://arxiv.org/abs/2502.14905)|null|
 |**2025-03-04**|**Exploring Advanced Techniques for Visual Question Answering: A Comprehensive Comparison**|Aiswarya Baby et.al.|[2502.14827](http://arxiv.org/abs/2502.14827)|null|
 |**2025-02-20**|**Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning**|Tian Xie et.al.|[2502.14768](http://arxiv.org/abs/2502.14768)|**[link](https://github.com/Unakar/Logic-RL)**|
@@ -78,7 +78,7 @@ layout: default
 |**2025-02-14**|**EnigmaEval: A Benchmark of Long Multimodal Reasoning Challenges**|Clinton J. Wang et.al.|[2502.08859](http://arxiv.org/abs/2502.08859)|null|
 |**2025-02-11**|**CIRCUIT: A Benchmark for Circuit Interpretation and Reasoning Capabilities of LLMs**|Lejla Skelic et.al.|[2502.07980](http://arxiv.org/abs/2502.07980)|null|
 |**2025-02-05**|**Reasoning-as-Logic-Units: Scaling Test-Time Reasoning in Large Language Models Through Logic Unit Alignment**|Cheryl Li et.al.|[2502.07803](http://arxiv.org/abs/2502.07803)|null|
-|**2025-02-17**|**Bag of Tricks for Inference-time Computation of LLM Reasoning**|Fan Liu et.al.|[2502.07191](http://arxiv.org/abs/2502.07191)|null|
+|**2025-02-17**|**Bag of Tricks for Inference-time Computation of LLM Reasoning**|Fan Liu et.al.|[2502.07191](http://arxiv.org/abs/2502.07191)|**[link](https://github.com/usail-hkust/benchmark_inference_time_computation_LLM)**|
 |**2025-02-15**|**Self-Supervised Prompt Optimization**|Jinyu Xiang et.al.|[2502.06855](http://arxiv.org/abs/2502.06855)|**[link](https://github.com/geekan/metagpt)**|
 |**2025-02-06**|**Vision-Integrated LLMs for Autonomous Driving Assistance : Human Performance Comparison and Trust Evaluation**|Namhee Kim et.al.|[2502.06843](http://arxiv.org/abs/2502.06843)|null|
 |**2025-02-04**|**Policy Guided Tree Search for Enhanced LLM Reasoning**|Yang Li et.al.|[2502.06813](http://arxiv.org/abs/2502.06813)|null|
@@ -4324,13 +4324,13 @@ layout: default
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
 |**2025-03-03**|**VideoUFO: A Million-Scale User-Focused Dataset for Text-to-Video Generation**|Wenhao Wang et.al.|[2503.01739](http://arxiv.org/abs/2503.01739)|null|
 |**2025-03-03**|**Learning to Generate Long-term Future Narrations Describing Activities of Daily Living**|Ramanathan Rajendiran et.al.|[2503.01416](http://arxiv.org/abs/2503.01416)|null|
-|**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|null|
+|**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|**[link](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**|
 |**2025-03-03**|**Parameter-free Video Segmentation for Vision and Language Understanding**|Louis Mahon et.al.|[2503.01201](http://arxiv.org/abs/2503.01201)|null|
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
-|**2025-03-02**|**Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning**|Baoqi Pei et.al.|[2503.00986](http://arxiv.org/abs/2503.00986)|null|
+|**2025-03-02**|**Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning**|Baoqi Pei et.al.|[2503.00986](http://arxiv.org/abs/2503.00986)|**[link](https://github.com/openrobotlab/egohod)**|
 |**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|null|
 |**2025-03-04**|**An Efficient 3D Convolutional Neural Network with Channel-wise, Spatial-grouped, and Temporal Convolutions**|Zhe Wang et.al.|[2503.00796](http://arxiv.org/abs/2503.00796)|null|
-|**2025-03-01**|**Streaming Video Question-Answering with In-context Video KV-Cache Retrieval**|Shangzhe Di et.al.|[2503.00540](http://arxiv.org/abs/2503.00540)|null|
+|**2025-03-01**|**Streaming Video Question-Answering with In-context Video KV-Cache Retrieval**|Shangzhe Di et.al.|[2503.00540](http://arxiv.org/abs/2503.00540)|**[link](https://github.com/becomebright/rekv)**|
 |**2025-03-01**|**Learning to Animate Images from A Few Videos to Portray Delicate Human Actions**|Haoxin Li et.al.|[2503.00276](http://arxiv.org/abs/2503.00276)|null|
 |**2025-03-04**|**Unified Video Action Model**|Shuang Li et.al.|[2503.00200](http://arxiv.org/abs/2503.00200)|null|
 |**2025-02-28**|**PreMind: Multi-Agent Video Understanding for Advanced Indexing of Presentation-style Videos**|Kangda Wei et.al.|[2503.00162](http://arxiv.org/abs/2503.00162)|null|
