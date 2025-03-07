@@ -1,4 +1,4 @@
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -273,7 +273,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -302,7 +302,7 @@
 |**2025-03-05**|**PowerAttention: Exponentially Scaling of Receptive Fields for Effective Sparse Attention**|Lida Chen et.al.|[2503.03588](http://arxiv.org/abs/2503.03588)|null|
 |**2025-03-05**|**"You don't need a university degree to comprehend data protection this way": LLM-Powered Interactive Privacy Policy Assessment**|Vincent Freiberger et.al.|[2503.03587](http://arxiv.org/abs/2503.03587)|null|
 |**2025-03-05**|**Benchmarking LLMs and LLM-based Agents in Practical Vulnerability Detection for Code Repositories**|Alperen Yildiz et.al.|[2503.03586](http://arxiv.org/abs/2503.03586)|null|
-|**2025-03-05**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562](http://arxiv.org/abs/2503.03562)|null|
+|**2025-03-06**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562](http://arxiv.org/abs/2503.03562)|null|
 |**2025-03-05**|**Afford-X: Generalizable and Slim Affordance Reasoning for Task-oriented Manipulation**|Xiaomeng Zhu et.al.|[2503.03556](http://arxiv.org/abs/2503.03556)|null|
 |**2025-03-05**|**Parallelized Planning-Acting for Efficient LLM-based Multi-Agent Systems**|Yaoru Li et.al.|[2503.03505](http://arxiv.org/abs/2503.03505)|null|
 |**2025-03-05**|**Collaborative Expert LLMs Guided Multi-Objective Molecular Optimization**|Jiajun Yu et.al.|[2503.03503](http://arxiv.org/abs/2503.03503)|null|
@@ -311,7 +311,7 @@
 |**2025-03-05**|**Generative Artificial Intelligence in Robotic Manipulation: A Survey**|Kun Zhang et.al.|[2503.03464](http://arxiv.org/abs/2503.03464)|null|
 |**2025-03-05**|**Open-Source Large Language Models as Multilingual Crowdworkers: Synthesizing Open-Domain Dialogues in Several Languages With No Examples in Targets and No Machine Translation**|Ahmed Njifenjou et.al.|[2503.03462](http://arxiv.org/abs/2503.03462)|null|
 |**2025-03-05**|**Visualising Policy-Reward Interplay to Inform Zeroth-Order Preference Optimisation of Large Language Models**|Alessio Galatolo et.al.|[2503.03460](http://arxiv.org/abs/2503.03460)|null|
-|**2025-03-05**|**Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**|Pengbo Hu et.al.|[2503.03459](http://arxiv.org/abs/2503.03459)|null|
+|**2025-03-06**|**Unified Mind Model: Reimagining Autonomous Agents in the LLM Era**|Pengbo Hu et.al.|[2503.03459](http://arxiv.org/abs/2503.03459)|null|
 |**2025-03-05**|**Taxation Perspectives from Large Language Models: A Case Study on Additional Tax Penalties**|Eunkyung Choi et.al.|[2503.03444](http://arxiv.org/abs/2503.03444)|null|
 |**2025-03-05**|**RASD: Retrieval-Augmented Speculative Decoding**|Guofeng Quan et.al.|[2503.03434](http://arxiv.org/abs/2503.03434)|null|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
@@ -337,7 +337,7 @@
 |**2025-03-05**|**Enhancing Memory Efficiency in Large Language Model Training Through Chronos-aware Pipeline Parallelism**|Xinyuan Lin et.al.|[2503.03182](http://arxiv.org/abs/2503.03182)|null|
 |**2025-03-05**|**Enhancing Cybersecurity in Critical Infrastructure with LLM-Assisted Explainable IoT Systems**|Ashutosh Ghimire et.al.|[2503.03180](http://arxiv.org/abs/2503.03180)|null|
 |**2025-03-05**|**AttackSeqBench: Benchmarking Large Language Models' Understanding of Sequential Patterns in Cyber Attacks**|Javier Yong et.al.|[2503.03170](http://arxiv.org/abs/2503.03170)|**[link](https://github.com/Javiery3889/AttackSeqBench)**|
-|**2025-03-05**|**Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**|Wei-Hao Chen et.al.|[2503.03154](http://arxiv.org/abs/2503.03154)|null|
+|**2025-03-06**|**Dango: A Mixed-Initiative Data Wrangling System using Large Language Model**|Wei-Hao Chen et.al.|[2503.03154](http://arxiv.org/abs/2503.03154)|null|
 |**2025-03-05**|**Position: Model Collapse Does Not Mean What You Think**|Rylan Schaeffer et.al.|[2503.03150](http://arxiv.org/abs/2503.03150)|null|
 |**2025-03-05**|**DSVD: Dynamic Self-Verify Decoding for Faithful Generation in Large Language Models**|YiQiu Guo et.al.|[2503.03149](http://arxiv.org/abs/2503.03149)|null|
 |**2025-03-05**|**PriFFT: Privacy-preserving Federated Fine-tuning of Large Language Models via Function Secret Sharing**|Zhichao You et.al.|[2503.03146](http://arxiv.org/abs/2503.03146)|null|
@@ -4409,7 +4409,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -4418,7 +4418,7 @@
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
 |**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
-|**2025-03-05**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562](http://arxiv.org/abs/2503.03562)|null|
+|**2025-03-06**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562](http://arxiv.org/abs/2503.03562)|null|
 |**2025-03-05**|**High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**|Yuna Kato et.al.|[2503.03558](http://arxiv.org/abs/2503.03558)|null|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
 |**2025-03-04**|**GRADEO: Towards Human-Like Evaluation for Text-to-Video Generation via Multi-Step Reasoning**|Zhun Mou et.al.|[2503.02341](http://arxiv.org/abs/2503.02341)|null|
@@ -4808,5 +4808,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250306>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250307>back to top</a>)</p>
 
