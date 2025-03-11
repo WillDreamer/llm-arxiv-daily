@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2025-03-07**|**Memory-augmented Query Reconstruction for LLM-based Knowledge Graph Reasoning**|Mufan Xu et.al.|[2503.05193](http://arxiv.org/abs/2503.05193)|null|
 |**2025-03-07**|**Rewarding Curse: Analyze and Mitigate Reward Modeling Issues for LLM Reasoning**|Jiachun Li et.al.|[2503.05188](http://arxiv.org/abs/2503.05188)|null|
 |**2025-03-07**|**Sketch-of-Thought: Efficient LLM Reasoning with Adaptive Cognitive-Inspired Sketching**|Simon A. Aytes et.al.|[2503.05179](http://arxiv.org/abs/2503.05179)|null|
-|**2025-03-07**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132](http://arxiv.org/abs/2503.05132)|null|
+|**2025-03-10**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132](http://arxiv.org/abs/2503.05132)|null|
 |**2025-03-04**|**Learning from Failures in Multi-Attempt Reinforcement Learning**|Stephen Chung et.al.|[2503.04808](http://arxiv.org/abs/2503.04808)|null|
 |**2025-02-22**|**Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference**|Thanh Le-Cong et.al.|[2503.04779](http://arxiv.org/abs/2503.04779)|null|
 |**2025-03-06**|**Better Process Supervision with Bi-directional Rewarding Signals**|Wenxiang Chen et.al.|[2503.04618](http://arxiv.org/abs/2503.04618)|null|
@@ -338,14 +338,14 @@ layout: default
 |**2025-03-07**|**Development and Enhancement of Text-to-Image Diffusion Models**|Rajdeep Roshan Sahu et.al.|[2503.05149](http://arxiv.org/abs/2503.05149)|null|
 |**2025-03-07**|**RocketEval: Efficient Automated LLM Evaluation via Grading Checklist**|Tianjun Wei et.al.|[2503.05142](http://arxiv.org/abs/2503.05142)|null|
 |**2025-03-07**|**Every FLOP Counts: Scaling a 300B Mixture-of-Experts LING LLM without Premium GPUs**|Ling Team et.al.|[2503.05139](http://arxiv.org/abs/2503.05139)|null|
-|**2025-03-07**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132](http://arxiv.org/abs/2503.05132)|null|
+|**2025-03-10**|**R1-Zero's "Aha Moment" in Visual Reasoning on a 2B Non-SFT Model**|Hengguang Zhou et.al.|[2503.05132](http://arxiv.org/abs/2503.05132)|null|
 |**2025-03-07**|**Dilu: Enabling GPU Resourcing-on-Demand for Serverless DL Serving via Introspective Elasticity**|Cunchi Lv et.al.|[2503.05130](http://arxiv.org/abs/2503.05130)|null|
 |**2025-03-07**|**Can Large Language Models Grasp Concepts in Visual Content? A Case Study on YouTube Shorts about Depression**|Jiaying "Lizzy" Liu et.al.|[2503.05109](http://arxiv.org/abs/2503.05109)|null|
 |**2025-03-07**|**AutoTestForge: A Multidimensional Automated Testing Framework for Natural Language Processing Models**|Hengrui Xing et.al.|[2503.05102](http://arxiv.org/abs/2503.05102)|null|
 |**2025-03-07**|**SpecServe: Efficient and SLO-Aware Large Language Model Serving with Adaptive Speculative Decoding**|Kaiyu Huang et.al.|[2503.05096](http://arxiv.org/abs/2503.05096)|null|
 |**2025-03-07**|**S2S-Arena, Evaluating Speech2Speech Protocols on Instruction Following with Paralinguistic Information**|Feng Jiang et.al.|[2503.05085](http://arxiv.org/abs/2503.05085)|null|
 |**2025-03-07**|**On a Connection Between Imitation Learning and RLHF**|Teng Xiao et.al.|[2503.05079](http://arxiv.org/abs/2503.05079)|null|
-|**2025-03-07**|**PromptPex: Automatic Test Generation for Language Model Prompts**|Reshabh K Sharma et.al.|[2503.05070](http://arxiv.org/abs/2503.05070)|null|
+|**2025-03-07**|**PromptPex: Automatic Test Generation for Language Model Prompts**|Reshabh K Sharma et.al.|[2503.05070](http://arxiv.org/abs/2503.05070)|**[link](https://github.com/microsoft/promptpex)**|
 |**2025-03-07**|**Capacity-Aware Inference: Mitigating the Straggler Effect in Mixture of Experts**|Shwai He et.al.|[2503.05066](http://arxiv.org/abs/2503.05066)|null|
 |**2025-03-07**|**No Free Labels: Limitations of LLM-as-a-Judge Without Human Grounding**|Michael Krumdick et.al.|[2503.05061](http://arxiv.org/abs/2503.05061)|null|
 |**2025-03-06**|**Dynamic-KGQA: A Scalable Framework for Generating Adaptive Question Answering Datasets**|Preetam Prabhu Srikar Dammu et.al.|[2503.05049](http://arxiv.org/abs/2503.05049)|null|
@@ -355,7 +355,7 @@ layout: default
 |**2025-03-06**|**Safety is Not Only About Refusal: Reasoning-Enhanced Fine-tuning for Interpretable LLM Safety**|Yuyou Zhang et.al.|[2503.05021](http://arxiv.org/abs/2503.05021)|null|
 |**2025-03-06**|**LLMs' Reshaping of People, Processes, Products, and Society in Software Development: A Comprehensive Exploration with Early Adopters**|Benyamin Tabarsi et.al.|[2503.05012](http://arxiv.org/abs/2503.05012)|null|
 |**2025-03-06**|**Leveraging Domain Knowledge at Inference Time for LLM Translation: Retrieval versus Generation**|Bryan Li et.al.|[2503.05010](http://arxiv.org/abs/2503.05010)|null|
-|**2025-03-06**|**Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models**|Benyamin Jamialahmadi et.al.|[2503.05005](http://arxiv.org/abs/2503.05005)|null|
+|**2025-03-06**|**Balcony: A Lightweight Approach to Dynamic Inference of Generative Language Models**|Benyamin Jamialahmadi et.al.|[2503.05005](http://arxiv.org/abs/2503.05005)|**[link](https://github.com/benyaminjami/Balcony-LLaMA)**|
 |**2025-03-06**|**Wanda++: Pruning Large Language Models via Regional Gradients**|Yifan Yang et.al.|[2503.04992](http://arxiv.org/abs/2503.04992)|null|
 |**2025-03-06**|**DP-GTR: Differentially Private Prompt Protection via Group Text Rewriting**|Mingchen Li et.al.|[2503.04990](http://arxiv.org/abs/2503.04990)|null|
 |**2025-03-06**|**Leveraging Large Language Models For Scalable Vector Graphics Processing: A Review**|Boris Malashenko et.al.|[2503.04983](http://arxiv.org/abs/2503.04983)|null|
@@ -372,7 +372,7 @@ layout: default
 |**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
 |**2025-03-07**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
 |**2025-03-06**|**Enough Coin Flips Can Make LLMs Act Bayesian**|Ritwik Gupta et.al.|[2503.04722](http://arxiv.org/abs/2503.04722)|null|
-|**2025-03-06**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
+|**2025-03-09**|**Predictable Scale: Part I -- Optimal Hyperparameter Scaling Law in Large Language Model Pretraining**|Houyi Li et.al.|[2503.04715](http://arxiv.org/abs/2503.04715)|null|
 |**2025-03-07**|**Universality of Layer-Level Entropy-Weighted Quantization Beyond Model Architecture and Size**|Alireza Behtash et.al.|[2503.04704](http://arxiv.org/abs/2503.04704)|null|
 |**2025-03-06**|**UIPE: Enhancing LLM Unlearning by Removing Knowledge Related to Forgetting Targets**|Wenyu Wang et.al.|[2503.04693](http://arxiv.org/abs/2503.04693)|null|
 |**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
@@ -4611,15 +4611,15 @@ layout: default
 |**2025-03-04**|**LLaVE: Large Language and Vision Embedding Models with Hardness-Weighted Contrastive Learning**|Zhibin Lan et.al.|[2503.04812](http://arxiv.org/abs/2503.04812)|null|
 |**2025-03-06**|**FluidNexus: 3D Fluid Reconstruction and Prediction from a Single Video**|Yue Gao et.al.|[2503.04720](http://arxiv.org/abs/2503.04720)|null|
 |**2025-03-06**|**What Are You Doing? A Closer Look at Controllable Human Video Generation**|Emanuele Bugliarello et.al.|[2503.04666](http://arxiv.org/abs/2503.04666)|null|
-|**2025-03-06**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
+|**2025-03-08**|**The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation**|Aoxiong Yin et.al.|[2503.04606](http://arxiv.org/abs/2503.04606)|null|
 |**2025-03-06**|**Token-Efficient Long Video Understanding for Multimodal LLMs**|Jindong Jiang et.al.|[2503.04130](http://arxiv.org/abs/2503.04130)|null|
 |**2025-03-06**|**EVE: Towards End-to-End Video Subtitle Extraction with Vision-Language Models**|Haiyang Yu et.al.|[2503.04058](http://arxiv.org/abs/2503.04058)|null|
 |**2025-03-05**|**EgoLife: Towards Egocentric Life Assistant**|Jingkang Yang et.al.|[2503.03803](http://arxiv.org/abs/2503.03803)|null|
 |**2025-03-05**|**GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**|Xuanchi Ren et.al.|[2503.03751](http://arxiv.org/abs/2503.03751)|**[link](https://github.com/nv-tlabs/GEN3C)**|
-|**2025-03-05**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
+|**2025-03-08**|**Rethinking Video Tokenization: A Conditioned Diffusion-based Approach**|Nianzu Yang et.al.|[2503.03708](http://arxiv.org/abs/2503.03708)|null|
 |**2025-03-05**|**DualDiff+: Dual-Branch Diffusion for High-Fidelity Video Generation with Reward Guidance**|Zhao Yang et.al.|[2503.03689](http://arxiv.org/abs/2503.03689)|null|
 |**2025-03-06**|**Towards Visual Discrimination and Reasoning of Real-World Physical Dynamics: Physics-Grounded Anomaly Detection**|Wenqiao Li et.al.|[2503.03562](http://arxiv.org/abs/2503.03562)|null|
-|**2025-03-05**|**High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**|Yuna Kato et.al.|[2503.03558](http://arxiv.org/abs/2503.03558)|null|
+|**2025-03-05**|**High-Quality Virtual Single-Viewpoint Surgical Video: Geometric Autocalibration of Multiple Cameras in Surgical Lights**|Yuna Kato et.al.|[2503.03558](http://arxiv.org/abs/2503.03558)|**[link](https://github.com/isogawalab/singleviewsurgicalvideo)**|
 |**2025-03-05**|**Video Super-Resolution: All You Need is a Video Diffusion Model**|Zhihao Zhan et.al.|[2503.03355](http://arxiv.org/abs/2503.03355)|null|
 |**2025-03-04**|**GRADEO: Towards Human-Like Evaluation for Text-to-Video Generation via Multi-Step Reasoning**|Zhun Mou et.al.|[2503.02341](http://arxiv.org/abs/2503.02341)|null|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
@@ -4629,7 +4629,7 @@ layout: default
 |**2025-03-03**|**Parameter-free Video Segmentation for Vision and Language Understanding**|Louis Mahon et.al.|[2503.01201](http://arxiv.org/abs/2503.01201)|null|
 |**2025-03-03**|**VideoHandles: Editing 3D Object Compositions in Videos Using Video Generative Priors**|Juil Koo et.al.|[2503.01107](http://arxiv.org/abs/2503.01107)|null|
 |**2025-03-02**|**Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning**|Baoqi Pei et.al.|[2503.00986](http://arxiv.org/abs/2503.00986)|**[link](https://github.com/openrobotlab/egohod)**|
-|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|null|
+|**2025-03-02**|**Extrapolating and Decoupling Image-to-Video Generation Models: Motion Modeling is Easier Than You Think**|Jie Tian et.al.|[2503.00948](http://arxiv.org/abs/2503.00948)|**[link](https://github.com/Chuge0335/EDG)**|
 |**2025-03-04**|**An Efficient 3D Convolutional Neural Network with Channel-wise, Spatial-grouped, and Temporal Convolutions**|Zhe Wang et.al.|[2503.00796](http://arxiv.org/abs/2503.00796)|null|
 |**2025-03-01**|**Streaming Video Question-Answering with In-context Video KV-Cache Retrieval**|Shangzhe Di et.al.|[2503.00540](http://arxiv.org/abs/2503.00540)|**[link](https://github.com/becomebright/rekv)**|
 |**2025-03-01**|**Learning to Animate Images from A Few Videos to Portray Delicate Human Actions**|Haoxin Li et.al.|[2503.00276](http://arxiv.org/abs/2503.00276)|null|
@@ -4675,7 +4675,7 @@ layout: default
 |**2025-02-19**|**LLMPopcorn: An Empirical Study of LLMs as Assistants for Popular Micro-video Generation**|Junchen Fu et.al.|[2502.12945](http://arxiv.org/abs/2502.12945)|null|
 |**2025-02-18**|**VidCapBench: A Comprehensive Benchmark of Video Captioning for Controllable Text-to-Video Generation**|Xinlong Chen et.al.|[2502.12782](http://arxiv.org/abs/2502.12782)|null|
 |**2025-02-18**|**MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation**|Sihyun Yu et.al.|[2502.12632](http://arxiv.org/abs/2502.12632)|null|
-|**2025-02-18**|**MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos**|Huaying Yuan et.al.|[2502.12558](http://arxiv.org/abs/2502.12558)|null|
+|**2025-03-10**|**MomentSeeker: A Comprehensive Benchmark and A Strong Baseline For Moment Retrieval Within Long Videos**|Huaying Yuan et.al.|[2502.12558](http://arxiv.org/abs/2502.12558)|null|
 |**2025-02-21**|**LaM-SLidE: Latent Space Modeling of Spatial Dynamical Systems via Linked Entities**|Florian Sestak et.al.|[2502.12128](http://arxiv.org/abs/2502.12128)|**[link](https://github.com/ml-jku/lam-slide)**|
 |**2025-02-17**|**DLFR-VAE: Dynamic Latent Frame Rate VAE for Video Generation**|Zhihang Yuan et.al.|[2502.11897](http://arxiv.org/abs/2502.11897)|**[link](https://github.com/thu-nics/dlfr-vae)**|
 |**2025-02-17**|**video-SALMONN-o1: Reasoning-enhanced Audio-visual Large Language Model**|Guangzhi Sun et.al.|[2502.11775](http://arxiv.org/abs/2502.11775)|null|
