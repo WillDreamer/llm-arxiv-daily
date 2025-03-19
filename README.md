@@ -1,4 +1,4 @@
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,18 +18,18 @@
 |**2025-03-17**|**Aligning Vision to Language: Text-Free Multimodal Knowledge Graph Construction for Enhanced LLMs Reasoning**|Junming Liu et.al.|[2503.12972](http://arxiv.org/abs/2503.12972)|null|
 |**2025-03-17**|**R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization**|Jingyi Zhang et.al.|[2503.12937](http://arxiv.org/abs/2503.12937)|null|
 |**2025-03-17**|**Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation**|Songjun Tu et.al.|[2503.12854](http://arxiv.org/abs/2503.12854)|null|
-|**2025-03-17**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|null|
+|**2025-03-18**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|null|
 |**2025-03-16**|**MPBench: A Comprehensive Multimodal Reasoning Benchmark for Process Errors Identification**|Zhaopan Xu et.al.|[2503.12505](http://arxiv.org/abs/2503.12505)|null|
-|**2025-03-16**|**Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs**|Xiaoying Zhang et.al.|[2503.12303](http://arxiv.org/abs/2503.12303)|null|
+|**2025-03-18**|**Towards Self-Improving Systematic Cognition for Next-Generation Foundation MLLMs**|Xiaoying Zhang et.al.|[2503.12303](http://arxiv.org/abs/2503.12303)|**[link](https://github.com/thunlp/SICOG)**|
 |**2025-03-15**|**Applications of Large Language Model Reasoning in Feature Generation**|Dharani Chandra et.al.|[2503.11989](http://arxiv.org/abs/2503.11989)|null|
 |**2025-03-14**|**Neutralizing Bias in LLM Reasoning using Entailment Graphs**|Liang Cheng et.al.|[2503.11614](http://arxiv.org/abs/2503.11614)|null|
 |**2025-03-14**|**VERIFY: A Benchmark of Visual Explanation and Reasoning for Investigating Multimodal Reasoning Fidelity**|Jing Bi et.al.|[2503.11557](http://arxiv.org/abs/2503.11557)|null|
 |**2025-03-14**|**RESPONSE: Benchmarking the Ability of Language Models to Undertake Commonsense Reasoning in Crisis Situation**|Aissatou Diallo et.al.|[2503.11348](http://arxiv.org/abs/2503.11348)|null|
 |**2025-03-13**|**Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data**|Paul Quinlan et.al.|[2503.10883](http://arxiv.org/abs/2503.10883)|null|
-|**2025-03-13**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615](http://arxiv.org/abs/2503.10615)|**[link](https://github.com/Fancy-MLLM/R1-onevision)**|
+|**2025-03-18**|**R1-Onevision: Advancing Generalized Multimodal Reasoning through Cross-Modal Formalization**|Yi Yang et.al.|[2503.10615](http://arxiv.org/abs/2503.10615)|**[link](https://github.com/Fancy-MLLM/R1-onevision)**|
 |**2025-03-15**|**VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search**|Yiming Jia et.al.|[2503.10582](http://arxiv.org/abs/2503.10582)|null|
 |**2025-03-13**|**VisualPRM: An Effective Process Reward Model for Multimodal Reasoning**|Weiyun Wang et.al.|[2503.10291](http://arxiv.org/abs/2503.10291)|null|
-|**2025-03-13**|**"Well, Keep Thinking": Enhancing LLM Reasoning with Adaptive Injection Decoding**|Hyunbin Jin et.al.|[2503.10167](http://arxiv.org/abs/2503.10167)|null|
+|**2025-03-18**|**"Well, Keep Thinking": Enhancing LLM Reasoning with Adaptive Injection Decoding**|Hyunbin Jin et.al.|[2503.10167](http://arxiv.org/abs/2503.10167)|null|
 |**2025-03-13**|**How Do Multimodal Large Language Models Handle Complex Multimodal Reasoning? Placing Them in An Extensible Escape Game**|Ziyue Wang et.al.|[2503.10042](http://arxiv.org/abs/2503.10042)|**[link](https://github.com/THUNLP-MT/EscapeCraft)**|
 |**2025-03-12**|**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**|Zhe Xu et.al.|[2503.09499](http://arxiv.org/abs/2503.09499)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2025-03-12**|**A Survey on Enhancing Causal Reasoning Ability of Large Language Models**|Xin Li et.al.|[2503.09326](http://arxiv.org/abs/2503.09326)|null|
@@ -317,7 +317,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -331,7 +331,7 @@
 |**2025-03-17**|**xLSTM 7B: A Recurrent LLM for Fast and Efficient Inference**|Maximilian Beck et.al.|[2503.13427](http://arxiv.org/abs/2503.13427)|null|
 |**2025-03-17**|**Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation**|Xinyu Lian et.al.|[2503.13424](http://arxiv.org/abs/2503.13424)|null|
 |**2025-03-17**|**A Comprehensive Survey on Multi-Agent Cooperative Decision-Making: Scenarios, Approaches, Challenges and Perspectives**|Weiqiang Jin et.al.|[2503.13415](http://arxiv.org/abs/2503.13415)|null|
-|**2025-03-17**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413](http://arxiv.org/abs/2503.13413)|null|
+|**2025-03-18**|**DLPO: Towards a Robust, Efficient, and Generalizable Prompt Optimization Framework from a Deep-Learning Perspective**|Dengyun Peng et.al.|[2503.13413](http://arxiv.org/abs/2503.13413)|null|
 |**2025-03-17**|**Using the Tools of Cognitive Science to Understand Large Language Models at Different Levels of Analysis**|Alexander Ku et.al.|[2503.13401](http://arxiv.org/abs/2503.13401)|null|
 |**2025-03-17**|**MicroVQA: A Multimodal Reasoning Benchmark for Microscopy-Based Scientific Research**|James Burgess et.al.|[2503.13399](http://arxiv.org/abs/2503.13399)|null|
 |**2025-03-17**|**Cream of the Crop: Harvesting Rich, Scalable and Transferable Multi-Modal Data for Instruction Fine-Tuning**|Mengyao Lyu et.al.|[2503.13383](http://arxiv.org/abs/2503.13383)|null|
@@ -344,10 +344,10 @@
 |**2025-03-17**|**Computation Mechanism Behind LLM Position Generalization**|Chi Han et.al.|[2503.13305](http://arxiv.org/abs/2503.13305)|null|
 |**2025-03-17**|**LIMCA: LLM for Automating Analog In-Memory Computing Architecture Design Exploration**|Deepak Vungarala et.al.|[2503.13301](http://arxiv.org/abs/2503.13301)|null|
 |**2025-03-17**|**A Survey on Transformer Context Extension: Approaches and Evaluation**|Yijun Liu et.al.|[2503.13299](http://arxiv.org/abs/2503.13299)|null|
-|**2025-03-17**|**LLM-Match: An Open-Sourced Patient Matching Model Based on Large Language Models and Retrieval-Augmented Generation**|Xiaodi Li et.al.|[2503.13281](http://arxiv.org/abs/2503.13281)|null|
+|**2025-03-18**|**LLM-Match: An Open-Sourced Patient Matching Model Based on Large Language Models and Retrieval-Augmented Generation**|Xiaodi Li et.al.|[2503.13281](http://arxiv.org/abs/2503.13281)|null|
 |**2025-03-17**|**Knowledge-Aware Iterative Retrieval for Multi-Agent Systems**|Seyoung Song et.al.|[2503.13275](http://arxiv.org/abs/2503.13275)|null|
 |**2025-03-17**|**Graph Generative Models Evaluation with Masked Autoencoder**|Chengen Wang et.al.|[2503.13271](http://arxiv.org/abs/2503.13271)|null|
-|**2025-03-17**|**TablePilot; Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262](http://arxiv.org/abs/2503.13262)|null|
+|**2025-03-18**|**TablePilot: Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262](http://arxiv.org/abs/2503.13262)|null|
 |**2025-03-17**|**MindEye-OmniAssist: A Gaze-Driven LLM-Enhanced Assistive Robot System for Implicit Intention Recognition and Task Execution**|Zejia Zhang et.al.|[2503.13250](http://arxiv.org/abs/2503.13250)|null|
 |**2025-03-17**|**Can Language Models Follow Multiple Turns of Entangled Instructions?**|Chi Han et.al.|[2503.13222](http://arxiv.org/abs/2503.13222)|null|
 |**2025-03-17**|**Dense Policy: Bidirectional Autoregressive Learning of Actions**|Yue Su et.al.|[2503.13217](http://arxiv.org/abs/2503.13217)|null|
@@ -397,10 +397,10 @@
 |**2025-03-17**|**Enhancing LLM Reasoning with Iterative DPO: A Comprehensive Empirical Investigation**|Songjun Tu et.al.|[2503.12854](http://arxiv.org/abs/2503.12854)|null|
 |**2025-03-17**|**ACT360: An Efficient 360-Degree Action Detection and Summarization Framework for Mission-Critical Training and Debriefing**|Aditi Tiwari et.al.|[2503.12852](http://arxiv.org/abs/2503.12852)|null|
 |**2025-03-17**|**GuideDog: A Real-World Egocentric Multimodal Dataset for Blind and Low-Vision Accessibility-Aware Guidance**|Junhyeok Kim et.al.|[2503.12844](http://arxiv.org/abs/2503.12844)|null|
-|**2025-03-17**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843](http://arxiv.org/abs/2503.12843)|null|
+|**2025-03-18**|**Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data**|Haozhe Si et.al.|[2503.12843](http://arxiv.org/abs/2503.12843)|null|
 |**2025-03-17**|**A Multi-Power Law for Loss Curve Prediction Across Learning Rate Schedules**|Kairong Luo et.al.|[2503.12811](http://arxiv.org/abs/2503.12811)|null|
 |**2025-03-17**|**Grounded Chain-of-Thought for Multimodal Large Language Models**|Qiong Wu et.al.|[2503.12799](http://arxiv.org/abs/2503.12799)|null|
-|**2025-03-17**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|null|
+|**2025-03-18**|**DeepPerception: Advancing R1-like Cognitive Visual Perception in MLLMs for Knowledge-Intensive Visual Grounding**|Xinyu Ma et.al.|[2503.12797](http://arxiv.org/abs/2503.12797)|null|
 |**2025-03-17**|**Quantum-Enhanced LLM Efficient Fine Tuning**|Xiaofei Kong et.al.|[2503.12790](http://arxiv.org/abs/2503.12790)|null|
 |**2025-03-17**|**SAM2 for Image and Video Segmentation: A Comprehensive Survey**|Zhang Jiaxing et.al.|[2503.12781](http://arxiv.org/abs/2503.12781)|null|
 |**2025-03-17**|**NuPlanQA: A Large-Scale Dataset and Benchmark for Multi-View Driving Scene Understanding in Multi-Modal Large Language Models**|Sung-Yeon Park et.al.|[2503.12772](http://arxiv.org/abs/2503.12772)|null|
@@ -5242,7 +5242,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -5745,5 +5745,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250318>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250319>back to top</a>)</p>
 
