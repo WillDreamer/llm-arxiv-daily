@@ -430,7 +430,7 @@
 |**2025-03-27**|**Socially Constructed Treatment Plans: Analyzing Online Peer Interactions to Understand How Patients Navigate Complex Medical Conditions**|Madhusudan Basak et.al.|[2503.21986](http://arxiv.org/abs/2503.21986)|null|
 |**2025-03-27**|**Improving Equivariant Networks with Probabilistic Symmetry Breaking**|Hannah Lawrence et.al.|[2503.21985](http://arxiv.org/abs/2503.21985)|null|
 |**2025-03-27**|**RocketPPA: Ultra-Fast LLM-Based PPA Estimator at Code-Level Abstraction**|Armin Abdollahi et.al.|[2503.21971](http://arxiv.org/abs/2503.21971)|null|
-|**2025-03-27**|**Data-Agnostic Robotic Long-Horizon Manipulation with Vision-Language-Guided Closed-Loop Feedback**|Yuan Meng et.al.|[2503.21969](http://arxiv.org/abs/2503.21969)|null|
+|**2025-03-27**|**Data-Agnostic Robotic Long-Horizon Manipulation with Vision-Language-Guided Closed-Loop Feedback**|Yuan Meng et.al.|[2503.21969](http://arxiv.org/abs/2503.21969)|**[link](https://github.com/Ghiara/DAHLIA)**|
 |**2025-03-27**|**Benchmarking Deep Learning-Based Methods for Irradiance Nowcasting with Sky Images**|Lorenzo F. C. Varaschin et.al.|[2503.21966](http://arxiv.org/abs/2503.21966)|null|
 |**2025-03-27**|**Entropy-Aware Branching for Improved Mathematical Reasoning**|Xianzhi Li et.al.|[2503.21961](http://arxiv.org/abs/2503.21961)|null|
 |**2025-03-27**|**Proof or Bluff? Evaluating LLMs on 2025 USA Math Olympiad**|Ivo Petrov et.al.|[2503.21934](http://arxiv.org/abs/2503.21934)|null|
@@ -6163,7 +6163,7 @@
 |**2025-03-23**|**MammAlps: A multi-view video behavior monitoring dataset of wild mammals in the Swiss Alps**|Valentin Gabeff et.al.|[2503.18223](http://arxiv.org/abs/2503.18223)|**[link](https://github.com/eceo-epfl/mammalps)**|
 |**2025-03-23**|**LongDiff: Training-Free Long Video Generation in One Go**|Zhuoling Li et.al.|[2503.18150](http://arxiv.org/abs/2503.18150)|null|
 |**2025-03-23**|**TransAnimate: Taming Layer Diffusion to Generate RGBA Video**|Xuewei Chen et.al.|[2503.17934](http://arxiv.org/abs/2503.17934)|null|
-|**2025-03-22**|**4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding**|Wenxuan Zhu et.al.|[2503.17827](http://arxiv.org/abs/2503.17827)|null|
+|**2025-03-22**|**4D-Bench: Benchmarking Multi-modal Large Language Models for 4D Object Understanding**|Wenxuan Zhu et.al.|[2503.17827](http://arxiv.org/abs/2503.17827)|**[link](https://github.com/WenxuanZhu1103/4D-Bench)**|
 |**2025-03-22**|**V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction**|Yiming Zhao et.al.|[2503.17736](http://arxiv.org/abs/2503.17736)|**[link](https://github.com/gaotiexinqu/v2p-bench)**|
 |**2025-03-22**|**RDTF: Resource-efficient Dual-mask Training Framework for Multi-frame Animated Sticker Generation**|Zhiqiang Yuan et.al.|[2503.17735](http://arxiv.org/abs/2503.17735)|null|
 |**2025-03-22**|**Collaborative Temporal Consistency Learning for Point-supervised Natural Language Video Localization**|Zhuo Tao et.al.|[2503.17651](http://arxiv.org/abs/2503.17651)|null|
