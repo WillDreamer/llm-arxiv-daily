@@ -450,7 +450,7 @@ layout: default
 |**2025-03-30**|**If an LLM Were a Character, Would It Know Its Own Story? Evaluating Lifelong Learning in LLMs**|Siqi Fan et.al.|[2503.23514](http://arxiv.org/abs/2503.23514)|null|
 |**2025-03-30**|**RARE: Retrieval-Augmented Reasoning Modeling**|Zhengren Wang et.al.|[2503.23513](http://arxiv.org/abs/2503.23513)|null|
 |**2025-03-30**|**SCORE: Story Coherence and Retrieval Enhancement for AI Narratives**|Qiang Yi et.al.|[2503.23512](http://arxiv.org/abs/2503.23512)|null|
-|**2025-03-30**|**Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model**|Jannik Endres et.al.|[2503.23502](http://arxiv.org/abs/2503.23502)|null|
+|**2025-03-30**|**Boosting Omnidirectional Stereo Matching with a Pre-trained Depth Foundation Model**|Jannik Endres et.al.|[2503.23502](http://arxiv.org/abs/2503.23502)|**[link](https://github.com/vita-epfl/DFI-OmniStereo)**|
 |**2025-03-30**|**DNA and Human Language: Epigenetic Memory and Redundancy in Linear Sequence**|Li Yang et.al.|[2503.23494](http://arxiv.org/abs/2503.23494)|null|
 |**2025-03-30**|**POINT $^{2}$ : A Polymer Informatics Training and Testing Database**|Jiaxin Xu et.al.|[2503.23491](http://arxiv.org/abs/2503.23491)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
