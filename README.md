@@ -6435,10 +6435,10 @@
 |**2025-04-02**|**WorldPrompter: Traversable Text-to-Scene Generation**|Zhaoyang Zhang et.al.|[2504.02045](http://arxiv.org/abs/2504.02045)|null|
 |**2025-04-03**|**VideoScene: Distilling Video Diffusion Model to Generate 3D Scenes in One Step**|Hanyang Wang et.al.|[2504.01956](http://arxiv.org/abs/2504.01956)|null|
 |**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890](http://arxiv.org/abs/2504.01890)|null|
-|**2025-04-02**|**Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**|Kun Ouyang et.al.|[2504.01805](http://arxiv.org/abs/2504.01805)|null|
+|**2025-04-02**|**Spatial-R1: Enhancing MLLMs in Video Spatial Reasoning**|Kun Ouyang et.al.|[2504.01805](http://arxiv.org/abs/2504.01805)|**[link](https://github.com/ouyangkun10/spatial-r1)**|
 |**2025-04-03**|**Leveraging Modality Tags for Enhanced Cross-Modal Video Retrieval**|Adriano Fragomeni et.al.|[2504.01591](http://arxiv.org/abs/2504.01591)|null|
 |**2025-04-02**|**TimeSearch: Hierarchical Video Search with Spotlight and Reflection for Human-like Long Video Understanding**|Junwen Pan et.al.|[2504.01407](http://arxiv.org/abs/2504.01407)|null|
-|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|null|
+|**2025-04-02**|**Slow-Fast Architecture for Video Multi-Modal Large Language Models**|Min Shi et.al.|[2504.01328](http://arxiv.org/abs/2504.01328)|**[link](https://github.com/shi-labs/slow-fast-video-multimodal-llm)**|
 |**2025-04-01**|**Shot-by-Shot: Film-Grammar-Aware Training-Free Audio Description Generation**|Junyu Xie et.al.|[2504.01020](http://arxiv.org/abs/2504.01020)|null|
 |**2025-04-01**|**WorldScore: A Unified Evaluation Benchmark for World Generation**|Haoyi Duan et.al.|[2504.00983](http://arxiv.org/abs/2504.00983)|null|
 |**2025-04-01**|**DecoFuse: Decomposing and Fusing the "What", "Where", and "How" for Brain-Inspired fMRI-to-Video Decoding**|Chong Li et.al.|[2504.00432](http://arxiv.org/abs/2504.00432)|null|
