@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -387,19 +387,19 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-08**|**GOLLuM: Gaussian Process Optimized LLMs -- Reframing LLM Finetuning through Bayesian Optimization**|Bojana Ranković et.al.|[2504.06265](http://arxiv.org/abs/2504.06265)|null|
 |**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
-|**2025-04-08**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
+|**2025-04-09**|**Hogwild! Inference: Parallel LLM Generation via Concurrent Attention**|Gleb Rodionov et.al.|[2504.06261](http://arxiv.org/abs/2504.06261)|null|
 |**2025-04-08**|**FEABench: Evaluating Language Models on Multiphysics Reasoning Ability**|Nayantara Mudur et.al.|[2504.06260](http://arxiv.org/abs/2504.06260)|null|
 |**2025-04-08**|**Electronic Structure Guided Inverse Design Using Generative Models**|Shuyi Jia et.al.|[2504.06249](http://arxiv.org/abs/2504.06249)|null|
 |**2025-04-08**|**Orb-v3: atomistic simulation at scale**|Benjamin Rhodes et.al.|[2504.06231](http://arxiv.org/abs/2504.06231)|null|
 |**2025-04-08**|**LExT: Towards Evaluating Trustworthiness of Natural Language Explanations**|Krithi Shailya et.al.|[2504.06227](http://arxiv.org/abs/2504.06227)|null|
 |**2025-04-08**|**Encoder-Decoder Gemma: Improving the Quality-Efficiency Trade-Off via Adaptation**|Biao Zhang et.al.|[2504.06225](http://arxiv.org/abs/2504.06225)|null|
-|**2025-04-08**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
+|**2025-04-09**|**Earth-Adapter: Bridge the Geospatial Domain Gaps with Mixture of Frequency Adaptation**|Xiaoxing Hu et.al.|[2504.06220](http://arxiv.org/abs/2504.06220)|null|
 |**2025-04-08**|**Can Performant LLMs Be Ethical? Quantifying the Impact of Web Crawling Opt-Outs**|Dongyang Fan et.al.|[2504.06219](http://arxiv.org/abs/2504.06219)|null|
 |**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
 |**2025-04-08**|**TxGemma: Efficient and Agentic LLMs for Therapeutics**|Eric Wang et.al.|[2504.06196](http://arxiv.org/abs/2504.06196)|null|
 |**2025-04-08**|**A Self-Supervised Framework for Space Object Behaviour Characterisation**|Ian Groves et.al.|[2504.06176](http://arxiv.org/abs/2504.06176)|null|
 |**2025-04-08**|**Assessing how hyperparameters impact Large Language Models' sarcasm detection performance**|Montgomery Gole et.al.|[2504.06166](http://arxiv.org/abs/2504.06166)|null|
-|**2025-04-08**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
+|**2025-04-09**|**Navigating the Rabbit Hole: Emergent Biases in LLM-Generated Attack Narratives Targeting Mental Health Groups**|Rijul Magu et.al.|[2504.06160](http://arxiv.org/abs/2504.06160)|null|
 |**2025-04-08**|**A Large-Scale Analysis on Contextual Self-Supervised Video Representation Learning**|Akash Kumar et.al.|[2504.06153](http://arxiv.org/abs/2504.06153)|null|
 |**2025-04-08**|**V-MAGE: A Game Evaluation Framework for Assessing Visual-Centric Capabilities in Multimodal Large Language Models**|Xiangxi Zheng et.al.|[2504.06148](http://arxiv.org/abs/2504.06148)|null|
 |**2025-04-08**|**ARLO: A Tailorable Approach for Transforming Natural Language Software Requirements into Architecture using LLMs**|Tooraj Helmi et.al.|[2504.06143](http://arxiv.org/abs/2504.06143)|null|
@@ -445,7 +445,7 @@ layout: default
 |**2025-04-08**|**Large Language Models Enhanced Hyperbolic Space Recommender Systems**|Wentao Cheng et.al.|[2504.05694](http://arxiv.org/abs/2504.05694)|null|
 |**2025-04-08**|**STRIVE: A Think & Improve Approach with Iterative Refinement for Enhancing Question Quality Estimation**|Aniket Deroy et.al.|[2504.05693](http://arxiv.org/abs/2504.05693)|null|
 |**2025-04-08**|**StayLTC: A Cost-Effective Multimodal Framework for Hospital Length of Stay Forecasting**|Sudeshna Jana et.al.|[2504.05691](http://arxiv.org/abs/2504.05691)|null|
-|**2025-04-08**|**STAGE: Stemmed Accompaniment Generation through Prefix-Based Conditioning**|Giorgio Strano et.al.|[2504.05690](http://arxiv.org/abs/2504.05690)|null|
+|**2025-04-09**|**STAGE: Stemmed Accompaniment Generation through Prefix-Based Conditioning**|Giorgio Strano et.al.|[2504.05690](http://arxiv.org/abs/2504.05690)|null|
 |**2025-04-08**|**Separator Injection Attack: Uncovering Dialogue Biases in Large Language Models Caused by Role Separators**|Xitao Li et.al.|[2504.05689](http://arxiv.org/abs/2504.05689)|null|
 |**2025-04-08**|**Towards Smarter Hiring: Are Zero-Shot and Few-Shot Pre-trained LLMs Ready for HR Spoken Interview Transcript Analysis?**|Subhankar Maity et.al.|[2504.05683](http://arxiv.org/abs/2504.05683)|null|
 |**2025-04-08**|**VC-LLM: Automated Advertisement Video Creation from Raw Footage using Multi-modal LLMs**|Dongjun Qian et.al.|[2504.05673](http://arxiv.org/abs/2504.05673)|null|
@@ -467,7 +467,7 @@ layout: default
 |**2025-04-07**|**SciSciGPT: Advancing Human-AI Collaboration in the Science of Science**|Erzhuo Shao et.al.|[2504.05559](http://arxiv.org/abs/2504.05559)|null|
 |**2025-04-07**|**COIG-P: A High-Quality and Large-Scale Chinese Preference Dataset for Alignment with Human Values**|M-A-P Team et.al.|[2504.05535](http://arxiv.org/abs/2504.05535)|null|
 |**2025-04-07**|**Bridging Industrial Expertise and XR with LLM-Powered Conversational Agents**|Despina Tomkou et.al.|[2504.05527](http://arxiv.org/abs/2504.05527)|null|
-|**2025-04-07**|**Pretraining Language Models for Diachronic Linguistic Change Discovery**|Elisabeth Fittschen et.al.|[2504.05523](http://arxiv.org/abs/2504.05523)|null|
+|**2025-04-09**|**Pretraining Language Models for Diachronic Linguistic Change Discovery**|Elisabeth Fittschen et.al.|[2504.05523](http://arxiv.org/abs/2504.05523)|null|
 |**2025-04-07**|**User Feedback Alignment for LLM-powered Exploration in Large-scale Recommendation Systems**|Jianling Wang et.al.|[2504.05522](http://arxiv.org/abs/2504.05522)|null|
 |**2025-04-07**|**Efficient Reinforcement Finetuning via Adaptive Curriculum Learning**|Taiwei Shi et.al.|[2504.05520](http://arxiv.org/abs/2504.05520)|null|
 |**2025-04-07**|**Evaluating the Generalization Capabilities of Large Language Models on Code Reasoning**|Rem Yang et.al.|[2504.05518](http://arxiv.org/abs/2504.05518)|null|
@@ -6692,7 +6692,7 @@ layout: default
 |**2025-04-08**|**From 128K to 4M: Efficient Training of Ultra-Long Context Large Language Models**|Chejian Xu et.al.|[2504.06214](http://arxiv.org/abs/2504.06214)|null|
 |**2025-04-08**|**CamContextI2V: Context-aware Controllable Video Generation**|Luis Denninger et.al.|[2504.06022](http://arxiv.org/abs/2504.06022)|null|
 |**2025-04-08**|**Video Flow as Time Series: Discovering Temporal Consistency and Variability for VideoQA**|Zijie Song et.al.|[2504.05783](http://arxiv.org/abs/2504.05783)|null|
-|**2025-04-07**|**Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting**|Yunlong Tang et.al.|[2504.05541](http://arxiv.org/abs/2504.05541)|**[link](https://github.com/yunlong10/CAT-V)**|
+|**2025-04-09**|**Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting**|Yunlong Tang et.al.|[2504.05541](http://arxiv.org/abs/2504.05541)|**[link](https://github.com/yunlong10/CAT-V)**|
 |**2025-04-07**|**REEF: Relevance-Aware and Efficient LLM Adapter for Video Understanding**|Sakib Reza et.al.|[2504.05491](http://arxiv.org/abs/2504.05491)|null|
 |**2025-04-07**|**REVEAL: Relation-based Video Representation Learning for Video-Question-Answering**|Sofian Chaybouti et.al.|[2504.05463](http://arxiv.org/abs/2504.05463)|null|
 |**2025-04-07**|**One-Minute Video Generation with Test-Time Training**|Karan Dalal et.al.|[2504.05298](http://arxiv.org/abs/2504.05298)|null|
