@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,8 +11,8 @@ layout: default
 |**2025-04-20**|**a1: Steep Test-time Scaling Law via Environment Augmented Generation**|Lingrui Mei et.al.|[2504.14597](http://arxiv.org/abs/2504.14597)|null|
 |**2025-04-20**|**CoLoTa: A Dataset for Entity-based Commonsense Reasoning over Long-Tail Knowledge**|Armin Toroghi et.al.|[2504.14462](http://arxiv.org/abs/2504.14462)|null|
 |**2025-04-19**|**Improving RL Exploration for LLM Reasoning through Retrospective Replay**|Shihan Dou et.al.|[2504.14363](http://arxiv.org/abs/2504.14363)|null|
-|**2025-04-19**|**Time Up! An Empirical Study of LLM Reasoning Ability Under Output Length Constraint**|Yi Sun et.al.|[2504.14350](http://arxiv.org/abs/2504.14350)|null|
-|**2025-04-19**|**SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM**|Xiaojiang Zhang et.al.|[2504.14286](http://arxiv.org/abs/2504.14286)|null|
+|**2025-04-22**|**Time's Up! An Empirical Study of LLM Reasoning Ability Under Output Length Constraint**|Yi Sun et.al.|[2504.14350](http://arxiv.org/abs/2504.14350)|null|
+|**2025-04-22**|**SRPO: A Cross-Domain Implementation of Large-Scale Reinforcement Learning on LLM**|Xiaojiang Zhang et.al.|[2504.14286](http://arxiv.org/abs/2504.14286)|null|
 |**2025-04-19**|**CODECRASH: Stress Testing LLM Reasoning under Structural and Semantic Perturbations**|Man Ho Lam et.al.|[2504.14119](http://arxiv.org/abs/2504.14119)|null|
 |**2025-04-18**|**Think Deep, Think Fast: Investigating Efficiency of Verifier-free Inference-time-scaling Methods**|Junlin Wang et.al.|[2504.14047](http://arxiv.org/abs/2504.14047)|null|
 |**2025-03-26**|**3MDBench: Medical Multimodal Multi-agent Dialogue Benchmark**|Ivan Sviridov et.al.|[2504.13861](http://arxiv.org/abs/2504.13861)|null|
@@ -442,7 +442,7 @@ layout: default
 |**2025-04-21**|**Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**|Marina Sakharova et.al.|[2504.15210](http://arxiv.org/abs/2504.15210)|null|
 |**2025-04-21**|**Compute-Optimal LLMs Provably Generalize Better With Scale**|Marc Finzi et.al.|[2504.15208](http://arxiv.org/abs/2504.15208)|null|
 |**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|
-|**2025-04-21**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|
+|**2025-04-22**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|
 |**2025-04-21**|**Tiger200K: Manually Curated High Visual Quality Video Dataset from UGC Platform**|Xianpan Zhou et.al.|[2504.15182](http://arxiv.org/abs/2504.15182)|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160](http://arxiv.org/abs/2504.15160)|null|
@@ -470,7 +470,7 @@ layout: default
 |**2025-04-21**|**Evaluating Code Generation of LLMs in Advanced Computer Science Problems**|Emir Catir et.al.|[2504.14964](http://arxiv.org/abs/2504.14964)|null|
 |**2025-04-21**|**Efficient Document Retrieval with G-Retriever**|Manthankumar Solanki et.al.|[2504.14955](http://arxiv.org/abs/2504.14955)|**[link](https://github.com/manthan2305/Efficient-G-Retriever)**|
 |**2025-04-21**|**Generative Semantic Communications: Principles and Practices**|Xiaojun Yuan et.al.|[2504.14947](http://arxiv.org/abs/2504.14947)|null|
-|**2025-04-21**|**Vector Embedding, Retrieval-Augmented Generation, CPU-NPU Collaboration, Heterogeneous Computing**|Jinqi Huang et.al.|[2504.14941](http://arxiv.org/abs/2504.14941)|null|
+|**2025-04-22**|**WindVE: Collaborative CPU-NPU Vector Embedding**|Jinqi Huang et.al.|[2504.14941](http://arxiv.org/abs/2504.14941)|null|
 |**2025-04-21**|**TWIG: Two-Step Image Generation using Segmentation Masks in Diffusion Models**|Mazharul Islam Rakib et.al.|[2504.14933](http://arxiv.org/abs/2504.14933)|null|
 |**2025-04-21**|**EducationQ: Evaluating LLMs' Teaching Capabilities Through Multi-Agent Dialogue Framework**|Yao Shi et.al.|[2504.14928](http://arxiv.org/abs/2504.14928)|null|
 |**2025-04-21**|**POLYRAG: Integrating Polyviews into Retrieval-Augmented Generation for Medical Applications**|Chunjing Gan et.al.|[2504.14917](http://arxiv.org/abs/2504.14917)|null|
@@ -506,7 +506,7 @@ layout: default
 |**2025-04-20**|**SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs**|Minh V. T. Pham et.al.|[2504.14757](http://arxiv.org/abs/2504.14757)|null|
 |**2025-04-20**|**PROMPTEVALS: A Dataset of Assertions and Guardrails for Custom Production Large Language Model Pipelines**|Reya Vir et.al.|[2504.14738](http://arxiv.org/abs/2504.14738)|null|
 |**2025-04-20**|**Pairwise or Pointwise? Evaluating Feedback Protocols for Bias in LLM-Based Evaluation**|Tuhina Tripathi et.al.|[2504.14716](http://arxiv.org/abs/2504.14716)|null|
-|**2025-04-20**|**AI with Emotions: Exploring Emotional Expressions in Large Language Models**|Shin-nosuke Ishikawa et.al.|[2504.14706](http://arxiv.org/abs/2504.14706)|null|
+|**2025-04-22**|**AI with Emotions: Exploring Emotional Expressions in Large Language Models**|Shin-nosuke Ishikawa et.al.|[2504.14706](http://arxiv.org/abs/2504.14706)|null|
 |**2025-04-20**|**Video-MMLU: A Massive Multi-Discipline Lecture Understanding Benchmark**|Enxin Song et.al.|[2504.14693](http://arxiv.org/abs/2504.14693)|null|
 |**2025-04-20**|**FarsEval-PKBETS: A new diverse benchmark for evaluating Persian large language models**|Mehrnoush Shamsfard et.al.|[2504.14690](http://arxiv.org/abs/2504.14690)|null|
 |**2025-04-20**|**Evaluating Temporal Plasticity in Foundation Time Series Models for Incremental Fine-tuning**|Jia Liu et.al.|[2504.14677](http://arxiv.org/abs/2504.14677)|null|
@@ -7508,7 +7508,7 @@ layout: default
 |**2025-04-17**|**Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2504.13035](http://arxiv.org/abs/2504.13035)|null|
 |**2025-04-21**|**Packing Input Frame Context in Next-Frame Prediction Models for Video Generation**|Lvmin Zhang et.al.|[2504.12626](http://arxiv.org/abs/2504.12626)|**[link](https://github.com/lllyasviel/framepack)**|
 |**2025-04-16**|**VGDFR: Diffusion-based Video Generation with Dynamic Latent Frame Rate**|Zhihang Yuan et.al.|[2504.12259](http://arxiv.org/abs/2504.12259)|null|
-|**2025-04-16**|**FocusedAD: Character-centric Movie Audio Description**|Xiaojun Ye et.al.|[2504.12157](http://arxiv.org/abs/2504.12157)|**[link](https://github.com/thorin215/focusedad)**|
+|**2025-04-22**|**FocusedAD: Character-centric Movie Audio Description**|Xiaojun Ye et.al.|[2504.12157](http://arxiv.org/abs/2504.12157)|**[link](https://github.com/thorin215/focusedad)**|
 |**2025-04-16**|**Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization**|Pritam Sarkar et.al.|[2504.12083](http://arxiv.org/abs/2504.12083)|null|
 |**2025-04-16**|**Modular-Cam: Modular Dynamic Camera-view Video Generation with LLM**|Zirui Pan et.al.|[2504.12048](http://arxiv.org/abs/2504.12048)|null|
 |**2025-04-16**|**The Devil is in the Prompts: Retrieval-Augmented Prompt Optimization for Text-to-Video Generation**|Bingjie Gao et.al.|[2504.11739](http://arxiv.org/abs/2504.11739)|null|
