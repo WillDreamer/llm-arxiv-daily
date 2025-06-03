@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.03
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ layout: default
 |**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511](http://arxiv.org/abs/2505.24511)|null|
 |**2025-05-30**|**Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation**|Ximing Xing et.al.|[2505.24499](http://arxiv.org/abs/2505.24499)|null|
 |**2025-05-30**|**How Much Backtracking is Enough? Exploring the Interplay of SFT and RL in Enhancing LLM Reasoning**|Hongyi James Cai et.al.|[2505.24273](http://arxiv.org/abs/2505.24273)|null|
-|**2025-05-30**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
+|**2025-06-02**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
 |**2025-05-30**|**Semi-structured LLM Reasoners Can Be Rigorously Audited**|Jixuan Leng et.al.|[2505.24217](http://arxiv.org/abs/2505.24217)|null|
 |**2025-05-30**|**HardTests: Synthesizing High-Quality Test Cases for LLM Coding**|Zhongmou He et.al.|[2505.24098](http://arxiv.org/abs/2505.24098)|null|
 |**2025-05-29**|**Preemptive Hallucination Reduction: An Input-Level Approach for Multimodal Language Model**|Nokimul Hasan Arif et.al.|[2505.24007](http://arxiv.org/abs/2505.24007)|null|
@@ -47,7 +47,7 @@ layout: default
 |**2025-05-27**|**Towards Safety Reasoning in LLMs: AI-agentic Deliberation for Policy-embedded CoT Data Creation**|Tharindu Kumarage et.al.|[2505.21784](http://arxiv.org/abs/2505.21784)|null|
 |**2025-05-27**|**Don't Think Longer, Think Wisely: Optimizing Thinking Dynamics for Large Reasoning Models**|Sohyun An et.al.|[2505.21765](http://arxiv.org/abs/2505.21765)|null|
 |**2025-05-27**|**R2R: Efficiently Navigating Divergent Reasoning Paths with Small-Large Model Token Routing**|Tianyu Fu et.al.|[2505.21600](http://arxiv.org/abs/2505.21600)|**[link](https://github.com/thu-nics/r2r)**|
-|**2025-05-23**|**More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models**|Chengzhi Liu et.al.|[2505.21523](http://arxiv.org/abs/2505.21523)|null|
+|**2025-05-31**|**More Thinking, Less Seeing? Assessing Amplified Hallucination in Multimodal Reasoning Models**|Chengzhi Liu et.al.|[2505.21523](http://arxiv.org/abs/2505.21523)|null|
 |**2025-05-27**|**Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?**|Junhao Cheng et.al.|[2505.21374](http://arxiv.org/abs/2505.21374)|null|
 |**2025-05-27**|**MME-Reasoning: A Comprehensive Benchmark for Logical Reasoning in MLLMs**|Jiakang Yuan et.al.|[2505.21327](http://arxiv.org/abs/2505.21327)|null|
 |**2025-05-27**|**Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning**|Mingyang Song et.al.|[2505.21178](http://arxiv.org/abs/2505.21178)|null|
@@ -81,7 +81,7 @@ layout: default
 |**2025-05-25**|**SituatedThinker: Grounding LLM Reasoning with Real-World through Situated Thinking**|Junnan Liu et.al.|[2505.19300](http://arxiv.org/abs/2505.19300)|**[link](https://github.com/jnanliu/situatedthinker)**|
 |**2025-05-28**|**VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use**|Mingyuan Wu et.al.|[2505.19255](http://arxiv.org/abs/2505.19255)|null|
 |**2025-05-25**|**ASPO: Adaptive Sentence-Level Preference Optimization for Fine-Grained Multimodal Reasoning**|Yeyuan Wang et.al.|[2505.19100](http://arxiv.org/abs/2505.19100)|null|
-|**2025-05-28**|**SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning**|Kun Xiang et.al.|[2505.19099](http://arxiv.org/abs/2505.19099)|**[link](https://github.com/seephys/seephys-project)**|
+|**2025-05-30**|**SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning**|Kun Xiang et.al.|[2505.19099](http://arxiv.org/abs/2505.19099)|**[link](https://github.com/seephys/seephys-project)**|
 |**2025-05-25**|**SATORI-R1: Incentivizing Multimodal Reasoning with Spatial Grounding and Verifiable Rewards**|Chuming Shen et.al.|[2505.19094](http://arxiv.org/abs/2505.19094)|**[link](https://github.com/justairr/satori-r1)**|
 |**2025-05-25**|**ReFineVLA: Reasoning-Aware Teacher-Guided Transfer Fine-Tuning**|Tuan Van Vo et.al.|[2505.19080](http://arxiv.org/abs/2505.19080)|null|
 |**2025-05-25**|**Can Large Language Models Infer Causal Relationships from Real-World Text?**|Ryan Saklad et.al.|[2505.18931](http://arxiv.org/abs/2505.18931)|null|
@@ -90,7 +90,7 @@ layout: default
 |**2025-05-24**|**How Is LLM Reasoning Distracted by Irrelevant Context? An Analysis Using a Controlled Benchmark**|Minglai Yang et.al.|[2505.18761](http://arxiv.org/abs/2505.18761)|**[link](https://github.com/mlyann/gsm-dc)**|
 |**2025-05-24**|**GainRAG: Preference Alignment in Retrieval-Augmented Generation through Gain Signal Synthesis**|Yi Jiang et.al.|[2505.18710](http://arxiv.org/abs/2505.18710)|**[link](https://github.com/liunian-jay/gainrag)**|
 |**2025-05-24**|**Steering LLM Reasoning Through Bias-Only Adaptation**|Viacheslav Sinii et.al.|[2505.18706](http://arxiv.org/abs/2505.18706)|null|
-|**2025-05-24**|**ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation**|Zhen Li et.al.|[2505.18668](http://arxiv.org/abs/2505.18668)|**[link](https://github.com/chartgalaxy/chartgalaxy)**|
+|**2025-05-31**|**ChartGalaxy: A Dataset for Infographic Chart Understanding and Generation**|Zhen Li et.al.|[2505.18668](http://arxiv.org/abs/2505.18668)|**[link](https://github.com/chartgalaxy/chartgalaxy)**|
 |**2025-05-24**|**Unraveling Misinformation Propagation in LLM Reasoning**|Yiyang Feng et.al.|[2505.18555](http://arxiv.org/abs/2505.18555)|**[link](https://github.com/wind-2375-like/misinfo-prop)**|
 |**2025-05-23**|**One Demo Is All It Takes: Planning Domain Derivation with LLMs from A Single Demonstration**|Jinbang Huang et.al.|[2505.18382](http://arxiv.org/abs/2505.18382)|null|
 |**2025-05-23**|**Seeing Beyond Words: MatVQA for Challenging Visual-Scientific Reasoning in Materials Science**|Sifan Wu et.al.|[2505.18319](http://arxiv.org/abs/2505.18319)|null|
@@ -10334,7 +10334,7 @@ layout: default
 |**2025-05-22**|**SoccerChat: Integrating Multimodal Data for Enhanced Soccer Game Understanding**|Sushant Gautam et.al.|[2505.16630](http://arxiv.org/abs/2505.16630)|null|
 |**2025-05-22**|**Temporal Object Captioning for Street Scene Videos from LiDAR Tracks**|Vignesh Gopinathan et.al.|[2505.16594](http://arxiv.org/abs/2505.16594)|null|
 |**2025-05-22**|**MAGIC: Motion-Aware Generative Inference via Confidence-Guided LLM**|Siwei Meng et.al.|[2505.16456](http://arxiv.org/abs/2505.16456)|null|
-|**2025-05-22**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|**[link](https://github.com/tiger-ai-lab/quickvideo)**|
+|**2025-05-31**|**QuickVideo: Real-Time Long Video Understanding with System Algorithm Co-Design**|Benjamin Schneider et.al.|[2505.16175](http://arxiv.org/abs/2505.16175)|**[link](https://github.com/tiger-ai-lab/quickvideo)**|
 |**2025-05-21**|**ViQAgent: Zero-Shot Video Question Answering via Agent with Open-Vocabulary Grounding Validation**|Tony Montes et.al.|[2505.15928](http://arxiv.org/abs/2505.15928)|**[link](https://github.com/t-montes/viqagent)**|
 |**2025-05-23**|**Challenger: Affordable Adversarial Driving Video Generation**|Zhiyuan Xu et.al.|[2505.15880](http://arxiv.org/abs/2505.15880)|null|
 |**2025-05-21**|**Generative AI for Autonomous Driving: A Review**|Katharina Winter et.al.|[2505.15863](http://arxiv.org/abs/2505.15863)|null|
