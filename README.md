@@ -73,14 +73,14 @@
 |**2025-05-29**|**Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models**|Zeyu Liu et.al.|[2505.23091](http://arxiv.org/abs/2505.23091)|null|
 |**2025-05-29**|**Case-Based Reasoning Enhances the Predictive Power of LLMs in Drug-Drug Interaction**|Guangyi Liu et.al.|[2505.23034](http://arxiv.org/abs/2505.23034)|null|
 |**2025-05-29**|**StrucSum: Graph-Structured Reasoning for Long Document Extractive Summarization with LLMs**|Haohan Yuan et.al.|[2505.22950](http://arxiv.org/abs/2505.22950)|null|
-|**2025-05-28**|**VidText: Towards Comprehensive Evaluation for Video Text Understanding**|Zhoufaran Yang et.al.|[2505.22810](http://arxiv.org/abs/2505.22810)|null|
+|**2025-05-28**|**VidText: Towards Comprehensive Evaluation for Video Text Understanding**|Zhoufaran Yang et.al.|[2505.22810](http://arxiv.org/abs/2505.22810)|**[link](https://github.com/shuyansy/vidtext)**|
 |**2025-05-28**|**Decomposing Elements of Problem Solving: What "Math" Does RL Teach?**|Tian Qin et.al.|[2505.22756](http://arxiv.org/abs/2505.22756)|**[link](https://github.com/cfpark00/rl-wall)**|
 |**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
 |**2025-05-28**|**SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning**|Jiaqi Huang et.al.|[2505.22596](http://arxiv.org/abs/2505.22596)|null|
 |**2025-05-28**|**ClaimPKG: Enhancing Claim Verification via Pseudo-Subgraph Generation with Lightweight Specialized LLM**|Hoang Pham et.al.|[2505.22552](http://arxiv.org/abs/2505.22552)|null|
-|**2025-05-28**|**Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**|Lai Wei et.al.|[2505.22453](http://arxiv.org/abs/2505.22453)|**[link](https://github.com/hiyouga/easyr1)**|
+|**2025-05-28**|**Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**|Lai Wei et.al.|[2505.22453](http://arxiv.org/abs/2505.22453)|**[link](https://github.com/waltonfuture/mm-upt)**|
 |**2025-05-29**|**Pangu Embedded: An Efficient Dual-system LLM Reasoner with Metacognition**|Hanting Chen et.al.|[2505.22375](http://arxiv.org/abs/2505.22375)|null|
-|**2025-05-28**|**Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start**|Lai Wei et.al.|[2505.22334](http://arxiv.org/abs/2505.22334)|**[link](https://github.com/hiyouga/easyr1)**|
+|**2025-05-28**|**Advancing Multimodal Reasoning via Reinforcement Learning with Cold Start**|Lai Wei et.al.|[2505.22334](http://arxiv.org/abs/2505.22334)|**[link](https://github.com/waltonfuture/rl-with-cold-start)**|
 |**2025-05-28**|**If Pigs Could Fly... Can LLMs Logically Reason Through Counterfactuals?**|Ishwar B Balappanawar et.al.|[2505.22318](http://arxiv.org/abs/2505.22318)|null|
 |**2025-05-28**|**Rethinking the Unsolvable: When In-Context Search Meets Test-Time Scaling**|Fanzeng Xia et.al.|[2505.22290](http://arxiv.org/abs/2505.22290)|null|
 |**2025-05-28**|**What Makes a Good Reasoning Chain? Uncovering Structural Patterns in Long Chain-of-Thought Reasoning**|Gangwei Jiang et.al.|[2505.22148](http://arxiv.org/abs/2505.22148)|null|
@@ -10658,7 +10658,7 @@
 |**2025-05-30**|**PerFormer: A Permutation Based Vision Transformer for Remaining Useful Life Prediction**|Zhengyang Fan et.al.|[2506.00259](http://arxiv.org/abs/2506.00259)|null|
 |**2025-05-30**|**Ctrl-Crash: Controllable Diffusion for Realistic Car Crashes**|Anthony Gosselin et.al.|[2506.00227](http://arxiv.org/abs/2506.00227)|null|
 |**2025-05-30**|**MiniMax-Remover: Taming Bad Noise Helps Video Object Removal**|Bojia Zi et.al.|[2505.24873](http://arxiv.org/abs/2505.24873)|null|
-|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|**[link](https://github.com/ceezh/silvr)**|
 |**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
 |**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
 |**2025-05-30**|**DreamDance: Animating Character Art via Inpainting Stable Gaussian Worlds**|Jiaxu Zhang et.al.|[2505.24733](http://arxiv.org/abs/2505.24733)|null|
@@ -10668,7 +10668,7 @@
 |**2025-05-30**|**VUDG: A Dataset for Video Understanding Domain Generalization**|Ziyi Wang et.al.|[2505.24346](http://arxiv.org/abs/2505.24346)|null|
 |**2025-05-30**|**DisTime: Distribution-based Time Representation for Video Large Language Models**|Yingsen Zeng et.al.|[2505.24329](http://arxiv.org/abs/2505.24329)|null|
 |**2025-05-30**|**Interactive Video Generation via Domain Adaptation**|Ishaan Rawal et.al.|[2505.24253](http://arxiv.org/abs/2505.24253)|null|
-|**2025-05-30**|**STORK: Improving the Fidelity of Mid-NFE Sampling for Diffusion and Flow Matching Models**|Zheng Tan et.al.|[2505.24210](http://arxiv.org/abs/2505.24210)|null|
+|**2025-05-30**|**STORK: Improving the Fidelity of Mid-NFE Sampling for Diffusion and Flow Matching Models**|Zheng Tan et.al.|[2505.24210](http://arxiv.org/abs/2505.24210)|**[link](https://github.com/zt220501/stork)**|
 |**2025-05-30**|**Threading Keyframe with Narratives: MLLMs as Strong Long Video Comprehenders**|Bo Fang et.al.|[2505.24158](http://arxiv.org/abs/2505.24158)|null|
 |**2025-05-29**|**Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding**|Mingyang Mao et.al.|[2505.23990](http://arxiv.org/abs/2505.23990)|null|
 |**2025-05-29**|**Leveraging Auxiliary Information in Text-to-Video Retrieval: A Review**|Adriano Fragomeni et.al.|[2505.23952](http://arxiv.org/abs/2505.23952)|null|
@@ -10684,7 +10684,7 @@
 |**2025-05-29**|**RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer**|Liu Liu et.al.|[2505.23171](http://arxiv.org/abs/2505.23171)|null|
 |**2025-05-29**|**PreFM: Online Audio-Visual Event Parsing via Predictive Future Modeling**|Xiao Yu et.al.|[2505.23155](http://arxiv.org/abs/2505.23155)|**[link](https://github.com/xiaoyu-1123/prefm)**|
 |**2025-05-29**|**Zero-to-Hero: Zero-Shot Initialization Empowering Reference-Based Video Appearance Editing**|Tongtong Su et.al.|[2505.23134](http://arxiv.org/abs/2505.23134)|**[link](https://github.com/tonniia/zero2hero)**|
-|**2025-05-29**|**MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**|Siyuan Wang et.al.|[2505.23120](http://arxiv.org/abs/2505.23120)|null|
+|**2025-05-29**|**MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation**|Siyuan Wang et.al.|[2505.23120](http://arxiv.org/abs/2505.23120)|**[link](https://github.com/sia-ide/mmgt)**|
 |**2025-05-29**|**GeoMan: Temporally Consistent Human Geometry Estimation using Image-to-Video Diffusion**|Gwanghyun Kim et.al.|[2505.23085](http://arxiv.org/abs/2505.23085)|null|
 |**2025-05-29**|**MOVi: Training-free Text-conditioned Multi-Object Video Generation**|Aimon Rahman et.al.|[2505.22980](http://arxiv.org/abs/2505.22980)|null|
 |**2025-05-29**|**HyperMotion: DiT-Based Pose-Guided Human Image Animation of Complex Motions**|Shuolin Xu et.al.|[2505.22977](http://arxiv.org/abs/2505.22977)|**[link](https://github.com/vivoCameraResearch/Hyper-Motion)**|
