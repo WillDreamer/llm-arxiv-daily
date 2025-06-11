@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,10 +10,10 @@ layout: default
 |**2025-06-09**|**Play to Generalize: Learning to Reason Through Game Play**|Yunfei Xie et.al.|[2506.08011](http://arxiv.org/abs/2506.08011)|null|
 |**2025-06-09**|**Decoupling the Image Perception and Multimodal Reasoning for Reasoning Segmentation with Digital Twin Representations**|Yizhen Li et.al.|[2506.07943](http://arxiv.org/abs/2506.07943)|null|
 |**2025-06-09**|**WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning**|Jie Yang et.al.|[2506.07905](http://arxiv.org/abs/2506.07905)|null|
-|**2025-06-09**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang CHen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
+|**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
 |**2025-06-09**|**Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking**|Silin Gao et.al.|[2506.07751](http://arxiv.org/abs/2506.07751)|null|
 |**2025-06-09**|**Synthesis by Design: Controlled Data Generation via Structural Guidance**|Lei Xu et.al.|[2506.07664](http://arxiv.org/abs/2506.07664)|null|
-|**2025-06-09**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|null|
+|**2025-06-10**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|null|
 |**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
 |**2025-06-09**|**Learning What Reinforcement Learning Can't: Interleaved Online Fine-Tuning for Hardest Questions**|Lu Ma et.al.|[2506.07527](http://arxiv.org/abs/2506.07527)|null|
 |**2025-06-09**|**MedChat: A Multi-Agent Framework for Multimodal Diagnosis with Large Language Models**|Philip Liu et.al.|[2506.07400](http://arxiv.org/abs/2506.07400)|null|
@@ -39,7 +39,7 @@ layout: default
 |**2025-06-09**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069](http://arxiv.org/abs/2506.05069)|null|
 |**2025-06-08**|**Context Is Not Comprehension**|Alex Pan et.al.|[2506.04907](http://arxiv.org/abs/2506.04907)|null|
 |**2025-06-05**|**ICPC-Eval: Probing the Frontiers of LLM Reasoning with Competitive Programming Contests**|Shiyi Xu et.al.|[2506.04894](http://arxiv.org/abs/2506.04894)|null|
-|**2025-06-05**|**Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design**|Lin Sun et.al.|[2506.04734](http://arxiv.org/abs/2506.04734)|null|
+|**2025-06-10**|**Evaluation is All You Need: Strategic Overclaiming of LLM Reasoning Capabilities Through Evaluation Design**|Lin Sun et.al.|[2506.04734](http://arxiv.org/abs/2506.04734)|null|
 |**2025-06-05**|**Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation**|Yuyang Wanyan et.al.|[2506.04614](http://arxiv.org/abs/2506.04614)|null|
 |**2025-06-05**|**MuSciClaims: Multimodal Scientific Claim Verification**|Yash Kumar Lal et.al.|[2506.04585](http://arxiv.org/abs/2506.04585)|null|
 |**2025-06-04**|**Matching Markets Meet LLMs: Algorithmic Reasoning with Ranked Preferences**|Hadi Hosseini et.al.|[2506.04478](http://arxiv.org/abs/2506.04478)|null|
@@ -53,7 +53,7 @@ layout: default
 |**2025-06-04**|**MiMo-VL Technical Report**|Xiaomi LLM-Core Team et.al.|[2506.03569](http://arxiv.org/abs/2506.03569)|null|
 |**2025-06-04**|**Critique-GRPO: Advancing LLM Reasoning with Natural Language and Numerical Feedback**|Xiaoying Zhang et.al.|[2506.03106](http://arxiv.org/abs/2506.03106)|null|
 |**2025-06-04**|**Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning**|Chen Qian et.al.|[2506.02867](http://arxiv.org/abs/2506.02867)|null|
-|**2025-06-03**|**TL;DR: Too Long, Do Re-weighting for Effcient LLM Reasoning Compression**|Zhong-Zhi Li et.al.|[2506.02678](http://arxiv.org/abs/2506.02678)|null|
+|**2025-06-10**|**TL;DR: Too Long, Do Re-weighting for Efficient LLM Reasoning Compression**|Zhong-Zhi Li et.al.|[2506.02678](http://arxiv.org/abs/2506.02678)|null|
 |**2025-06-03**|**A Smart Multimodal Healthcare Copilot with Powerful LLM Reasoning**|Xuejiao Zhao et.al.|[2506.02470](http://arxiv.org/abs/2506.02470)|null|
 |**2025-06-02**|**Act Only When It Pays: Efficient Reinforcement Learning for LLM Reasoning via Selective Rollouts**|Haizhong Zheng et.al.|[2506.02177](http://arxiv.org/abs/2506.02177)|null|
 |**2025-06-02**|**Knowledge or Reasoning? A Close Look at How LLMs Think Across Domains**|Juncheng Wu et.al.|[2506.02126](http://arxiv.org/abs/2506.02126)|null|
@@ -75,7 +75,7 @@ layout: default
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|**[link](https://github.com/mbzuai-oryx/agent-x)**|
 |**2025-05-30**|**Harnessing Negative Signals: Reinforcement Distillation from Teacher Data for LLM Reasoning**|Shuyao Xu et.al.|[2505.24850](http://arxiv.org/abs/2505.24850)|**[link](https://github.com/tim-siu/reinforcement-distillation)**|
 |**2025-05-30**|**Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success**|Ben Griffin et.al.|[2505.24622](http://arxiv.org/abs/2505.24622)|null|
-|**2025-05-30**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511](http://arxiv.org/abs/2505.24511)|**[link](https://github.com/realwangjiahao/timereasoner)**|
+|**2025-06-10**|**Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting**|Jiahao Wang et.al.|[2505.24511](http://arxiv.org/abs/2505.24511)|**[link](https://github.com/realwangjiahao/timereasoner)**|
 |**2025-05-30**|**Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation**|Ximing Xing et.al.|[2505.24499](http://arxiv.org/abs/2505.24499)|null|
 |**2025-05-30**|**How Much Backtracking is Enough? Exploring the Interplay of SFT and RL in Enhancing LLM Reasoning**|Hongyi James Cai et.al.|[2505.24273](http://arxiv.org/abs/2505.24273)|null|
 |**2025-06-02**|**MIRAGE: Assessing Hallucination in Multimodal Reasoning Chains of MLLM**|Bowen Dong et.al.|[2505.24238](http://arxiv.org/abs/2505.24238)|null|
@@ -750,7 +750,7 @@ layout: default
 |**2025-06-09**|**Improving large language models with concept-aware fine-tuning**|Michael K. Chen et.al.|[2506.07833](http://arxiv.org/abs/2506.07833)|null|
 |**2025-06-09**|**R3D2: Realistic 3D Asset Insertion via Diffusion for Autonomous Driving Simulation**|William Ljungbergh et.al.|[2506.07826](http://arxiv.org/abs/2506.07826)|null|
 |**2025-06-09**|**Addition in Four Movements: Mapping Layer-wise Information Trajectories in LLMs**|Yao Yan et.al.|[2506.07824](http://arxiv.org/abs/2506.07824)|null|
-|**2025-06-09**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang CHen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
+|**2025-06-10**|**Guideline Forest: Experience-Induced Multi-Guideline Reasoning with Stepwise Aggregation**|Jiaxiang Chen et.al.|[2506.07820](http://arxiv.org/abs/2506.07820)|null|
 |**2025-06-09**|**WebUIBench: A Comprehensive Benchmark for Evaluating Multimodal Large Language Models in WebUI-to-Code**|Zhiyu Lin et.al.|[2506.07818](http://arxiv.org/abs/2506.07818)|null|
 |**2025-06-09**|**Self-Cascaded Diffusion Models for Arbitrary-Scale Image Super-Resolution**|Junseo Bang et.al.|[2506.07813](http://arxiv.org/abs/2506.07813)|null|
 |**2025-06-09**|**LLM Unlearning Should Be Form-Independent**|Xiaotian Ye et.al.|[2506.07795](http://arxiv.org/abs/2506.07795)|null|
@@ -759,7 +759,7 @@ layout: default
 |**2025-06-09**|**Augmenting LLMs' Reasoning by Reinforcing Abstract Thinking**|Silin Gao et.al.|[2506.07751](http://arxiv.org/abs/2506.07751)|null|
 |**2025-06-09**|**Research quality evaluation by AI in the era of Large Language Models: Advantages, disadvantages, and systemic effects**|Mike Thelwall et.al.|[2506.07748](http://arxiv.org/abs/2506.07748)|null|
 |**2025-06-09**|**Flow-Anything: Learning Real-World Optical Flow Estimation from Large-Scale Single-view Images**|Yingping Liang et.al.|[2506.07740](http://arxiv.org/abs/2506.07740)|null|
-|**2025-06-09**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Jing Zhong et.al.|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
+|**2025-06-10**|**ArchiLense: A Framework for Quantitative Analysis of Architectural Styles Based on Vision Large Language Models**|Jing Zhong et.al.|[2506.07739](http://arxiv.org/abs/2506.07739)|null|
 |**2025-06-09**|**RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards**|Jingnan Zheng et.al.|[2506.07736](http://arxiv.org/abs/2506.07736)|null|
 |**2025-06-09**|**Language Embedding Meets Dynamic Graph: A New Exploration for Neural Architecture Representation Learning**|Haizhao Jing et.al.|[2506.07735](http://arxiv.org/abs/2506.07735)|null|
 |**2025-06-09**|**NeurIPS 2025 E2LM Competition : Early Training Evaluation of Language Models**|Mouadh Yagoubi et.al.|[2506.07731](http://arxiv.org/abs/2506.07731)|null|
@@ -785,7 +785,7 @@ layout: default
 |**2025-06-09**|**MIRA: Medical Time Series Foundation Model for Real-World Health Data**|Hao Li et.al.|[2506.07584](http://arxiv.org/abs/2506.07584)|null|
 |**2025-06-09**|**Beyond the Sentence: A Survey on Context-Aware Machine Translation with Large Language Models**|Ramakrishna Appicharla et.al.|[2506.07583](http://arxiv.org/abs/2506.07583)|null|
 |**2025-06-09**|**Super Encoding Network: Recursive Association of Multi-Modal Encoders for Video Understanding**|Boyu Chen et.al.|[2506.07576](http://arxiv.org/abs/2506.07576)|null|
-|**2025-06-09**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|null|
+|**2025-06-10**|**SAFEFLOW: A Principled Protocol for Trustworthy and Transactional Autonomous Agent Systems**|Peiran Li et.al.|[2506.07564](http://arxiv.org/abs/2506.07564)|null|
 |**2025-06-09**|**Cross-channel Perception Learning for H&E-to-IHC Virtual Staining**|Hao Yang et.al.|[2506.07559](http://arxiv.org/abs/2506.07559)|null|
 |**2025-06-09**|**SELT: Self-Evaluation Tree Search for LLMs with Task Decomposition**|Mengsong Wu et.al.|[2506.07557](http://arxiv.org/abs/2506.07557)|null|
 |**2025-06-09**|**ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning**|Mengsong Wu et.al.|[2506.07551](http://arxiv.org/abs/2506.07551)|null|
@@ -10821,8 +10821,8 @@ layout: default
 |**2025-06-09**|**SceneRAG: Scene-level Retrieval-Augmented Generation for Video Understanding**|Nianbo Zeng et.al.|[2506.07600](http://arxiv.org/abs/2506.07600)|null|
 |**2025-06-09**|**Super Encoding Network: Recursive Association of Multi-Modal Encoders for Video Understanding**|Boyu Chen et.al.|[2506.07576](http://arxiv.org/abs/2506.07576)|null|
 |**2025-06-09**|**Ambiguity-Restrained Text-Video Representation Learning for Partially Relevant Video Retrieval**|CH Cho et.al.|[2506.07471](http://arxiv.org/abs/2506.07471)|null|
-|**2025-06-09**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
-|**2025-06-08**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
+|**2025-06-10**|**ARGUS: Hallucination and Omission Evaluation in Video-LLMs**|Ruchit Rawal et.al.|[2506.07371](http://arxiv.org/abs/2506.07371)|null|
+|**2025-06-10**|**From Generation to Generalization: Emergent Few-Shot Learning in Video Diffusion Models**|Pablo Acuaviva et.al.|[2506.07280](http://arxiv.org/abs/2506.07280)|null|
 |**2025-06-08**|**TV-LiVE: Training-Free, Text-Guided Video Editing via Layer Informed Vitality Exploitation**|Min-Jung Kim et.al.|[2506.07205](http://arxiv.org/abs/2506.07205)|null|
 |**2025-06-08**|**Frame Guidance: Training-Free Guidance for Frame-Level Control in Video Diffusion Models**|Sangwon Jang et.al.|[2506.07177](http://arxiv.org/abs/2506.07177)|null|
 |**2025-06-08**|**Hi-VAE: Efficient Video Autoencoding with Global and Detailed Motion**|Huaize Liu et.al.|[2506.07136](http://arxiv.org/abs/2506.07136)|null|
