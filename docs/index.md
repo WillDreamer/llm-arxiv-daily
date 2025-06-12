@@ -766,7 +766,7 @@ layout: default
 |**2025-06-11**|**DHoTT: A Temporal Extension of Homotopy Type Theory for Semantic Drift**|Iman Poernomo et.al.|[2506.09671](http://arxiv.org/abs/2506.09671)|null|
 |**2025-06-11**|**Query-Level Uncertainty in Large Language Models**|Lihu Chen et.al.|[2506.09669](http://arxiv.org/abs/2506.09669)|null|
 |**2025-06-11**|**Intent Factored Generation: Unleashing the Diversity in Your Language Model**|Eltayeb Ahmed et.al.|[2506.09659](http://arxiv.org/abs/2506.09659)|null|
-|**2025-06-11**|**Bridging the Gap Between Open-Source and Proprietary LLMs in Table QA**|Nikolas Evkarpidi et.al.|[2506.09657](http://arxiv.org/abs/2506.09657)|null|
+|**2025-06-11**|**Bridging the Gap Between Open-Source and Proprietary LLMs in Table QA**|Nikolas Evkarpidi et.al.|[2506.09657](http://arxiv.org/abs/2506.09657)|**[link](https://github.com/Nickolas-option/QA_on_Tabular_Data_SemEval2025_Task8)**|
 |**2025-06-11**|**Application-Driven Value Alignment in Agentic AI Systems: Survey and Perspectives**|Wei Zeng et.al.|[2506.09656](http://arxiv.org/abs/2506.09656)|null|
 |**2025-06-11**|**DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy**|Kaixuan Xu et.al.|[2506.09655](http://arxiv.org/abs/2506.09655)|null|
 |**2025-06-11**|**Real-Time Network Traffic Forecasting with Missing Data: A Generative Model Approach**|Lei Deng et.al.|[2506.09647](http://arxiv.org/abs/2506.09647)|null|
