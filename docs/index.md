@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.29
+## Updated on 2025.06.30
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12058,12 +12058,12 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-26**|**SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture**|Kehan Sui et.al.|[2506.21478](http://arxiv.org/abs/2506.21478)|null|
-|**2025-06-26**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
+|**2025-06-27**|**ShotBench: Expert-Level Cinematic Understanding in Vision-Language Models**|Hongbo Liu et.al.|[2506.21356](http://arxiv.org/abs/2506.21356)|null|
 |**2025-06-26**|**HieraSurg: Hierarchy-Aware Diffusion Model for Surgical Video Generation**|Diego Biagini et.al.|[2506.21287](http://arxiv.org/abs/2506.21287)|null|
 |**2025-06-26**|**Video Virtual Try-on with Conditional Diffusion Transformer Inpainter**|Cheng Zou et.al.|[2506.21270](http://arxiv.org/abs/2506.21270)|null|
 |**2025-06-26**|**Task-Aware KV Compression For Cost-Effective Long Video Understanding**|Minghao Qin et.al.|[2506.21184](http://arxiv.org/abs/2506.21184)|null|
 |**2025-06-26**|**IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes**|Yujia Liang et.al.|[2506.21116](http://arxiv.org/abs/2506.21116)|null|
-|**2025-06-26**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
+|**2025-06-27**|**DFVEdit: Conditional Delta Flow Vector for Zero-shot Video Editing**|Lingling Cai et.al.|[2506.20967](http://arxiv.org/abs/2506.20967)|null|
 |**2025-06-26**|**Consistent Zero-shot 3D Texture Synthesis Using Geometry-aware Diffusion and Temporal Video Models**|Donggoo Kang et.al.|[2506.20946](http://arxiv.org/abs/2506.20946)|null|
 |**2025-06-25**|**Video Perception Models for 3D Scene Synthesis**|Rui Huang et.al.|[2506.20601](http://arxiv.org/abs/2506.20601)|null|
 |**2025-06-25**|**Dense Video Captioning using Graph-based Sentence Summarization**|Zhiwang Zhang et.al.|[2506.20583](http://arxiv.org/abs/2506.20583)|null|
@@ -12087,7 +12087,7 @@ layout: default
 |**2025-06-23**|**RDPO: Real Data Preference Optimization for Physics Consistency Video Generation**|Wenxu Qian et.al.|[2506.18655](http://arxiv.org/abs/2506.18655)|null|
 |**2025-06-23**|**BulletGen: Improving 4D Reconstruction with Bullet-Time Generation**|Denys Rozumnyi et.al.|[2506.18601](http://arxiv.org/abs/2506.18601)|null|
 |**2025-06-23**|**VQ-Insight: Teaching VLMs for AI-Generated Video Quality Understanding via Progressive Visual Reinforcement Learning**|Xuanyu Zhang et.al.|[2506.18564](http://arxiv.org/abs/2506.18564)|null|
-|**2025-06-22**|**MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering**|Jisheng Dang et.al.|[2506.18071](http://arxiv.org/abs/2506.18071)|null|
+|**2025-06-27**|**MUPA: Towards Multi-Path Agentic Reasoning for Grounded Video Question Answering**|Jisheng Dang et.al.|[2506.18071](http://arxiv.org/abs/2506.18071)|null|
 |**2025-06-22**|**SurgVidLM: Towards Multi-grained Surgical Video Understanding with Large Language Model**|Guankun Wang et.al.|[2506.17873](http://arxiv.org/abs/2506.17873)|null|
 |**2025-06-21**|**CLiViS: Unleashing Cognitive Map through Linguistic-Visual Synergy for Embodied Visual Reasoning**|Kailing Li et.al.|[2506.17629](http://arxiv.org/abs/2506.17629)|null|
 |**2025-06-23**|**Emergent Temporal Correspondences from Video Diffusion Transformers**|Jisu Nam et.al.|[2506.17220](http://arxiv.org/abs/2506.17220)|**[link](https://github.com/cvlab-kaist/DiffTrack)**|
