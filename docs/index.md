@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -852,7 +852,7 @@ layout: default
 |**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
+|**2025-07-15**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
 |**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|
 |**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|
 |**2025-07-14**|**Test-Time Canonicalization by Foundation Models for Robust Perception**|Utkarsh Singhal et.al.|[2507.10375](http://arxiv.org/abs/2507.10375)|null|
@@ -889,7 +889,7 @@ layout: default
 |**2025-07-14**|**EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**|Zhifei Xu et.al.|[2507.10026](http://arxiv.org/abs/2507.10026)|null|
 |**2025-07-14**|**Qualitative Study for LLM-assisted Design Study Process: Strategies, Challenges, and Roles**|Shaolun Ruan et.al.|[2507.10024](http://arxiv.org/abs/2507.10024)|null|
 |**2025-07-14**|**The Man Behind the Sound: Demystifying Audio Private Attribute Profiling via Multimodal Large Language Model Agents**|Lixu Wang et.al.|[2507.10016](http://arxiv.org/abs/2507.10016)|null|
-|**2025-07-14**|**(Almost) Free Modality Stitching of Foundation Models**|Jaisidh Singh et.al.|[2507.10015](http://arxiv.org/abs/2507.10015)|null|
+|**2025-07-15**|**(Almost) Free Modality Stitching of Foundation Models**|Jaisidh Singh et.al.|[2507.10015](http://arxiv.org/abs/2507.10015)|null|
 |**2025-07-14**|**Protective Factor-Aware Dynamic Influence Learning for Suicide Risk Prediction on Social Media**|Jun Li et.al.|[2507.10008](http://arxiv.org/abs/2507.10008)|null|
 |**2025-07-14**|**Deep Hidden Cognition Facilitates Reliable Chain-of-Thought Reasoning**|Zijun Chen et.al.|[2507.10007](http://arxiv.org/abs/2507.10007)|null|
 |**2025-07-14**|**Differentially Private Federated Low Rank Adaptation Beyond Fixed-Matrix**|Ming Wen et.al.|[2507.09990](http://arxiv.org/abs/2507.09990)|null|
@@ -906,7 +906,7 @@ layout: default
 |**2025-07-14**|**Solving dynamic portfolio selection problems via score-based diffusion models**|Ahmad Aghapour et.al.|[2507.09916](http://arxiv.org/abs/2507.09916)|null|
 |**2025-07-14**|**Crucial-Diff: A Unified Diffusion Model for Crucial Image and Annotation Synthesis in Data-scarce Scenarios**|Siyue Yao et.al.|[2507.09915](http://arxiv.org/abs/2507.09915)|null|
 |**2025-07-14**|**TolerantECG: A Foundation Model for Imperfect Electrocardiogram**|Huynh Nguyen Dang et.al.|[2507.09887](http://arxiv.org/abs/2507.09887)|null|
-|**2025-07-14**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
+|**2025-07-15**|**VerifyBench: A Systematic Benchmark for Evaluating Reasoning Verifiers Across Domains**|Xuzhao Li et.al.|[2507.09884](http://arxiv.org/abs/2507.09884)|null|
 |**2025-07-14**|**AdaBrain-Bench: Benchmarking Brain Foundation Models for Brain-Computer Interface Applications**|Jiamin Wu et.al.|[2507.09882](http://arxiv.org/abs/2507.09882)|null|
 |**2025-07-14**|**Covering a Few Submodular Constraints and Applications**|Tanvi Bajpai et.al.|[2507.09879](http://arxiv.org/abs/2507.09879)|null|
 |**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
