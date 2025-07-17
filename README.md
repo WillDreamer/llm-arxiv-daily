@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,7 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-16**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
 |**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
 |**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
 |**2025-07-15**|**MSA at ImageCLEF 2025 Multimodal Reasoning: Multilingual Multimodal Reasoning With Ensemble Vision Language Models**|Seif Ahmed et.al.|[2507.11114](http://arxiv.org/abs/2507.11114)|null|
@@ -847,7 +847,7 @@
 |**2024-09-16**|**Enhancing RL Safety with Counterfactual LLM Reasoning**|Dennis Gross et.al.|[2409.10188](http://arxiv.org/abs/2409.10188)|**[link](https://github.com/lava-lab/cool-mc)**|
 |**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## LLM MLLM
 
@@ -862,7 +862,7 @@
 |**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
 |**2025-07-15**|**Implementing Adaptations for Vision AutoRegressive Model**|Kaif Shaikh et.al.|[2507.11441](http://arxiv.org/abs/2507.11441)|null|
 |**2025-07-15**|**Towards Reliable Objective Evaluation Metrics for Generative Singing Voice Separation Models**|Paul A. Bereuter et.al.|[2507.11427](http://arxiv.org/abs/2507.11427)|null|
-|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-16**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
 |**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
 |**2025-07-15**|**Seq vs Seq: An Open Suite of Paired Encoders and Decoders**|Orion Weller et.al.|[2507.11412](http://arxiv.org/abs/2507.11412)|null|
 |**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
@@ -875,7 +875,7 @@
 |**2025-07-15**|**RefModel: Detecting Refactorings using Foundation Models**|Pedro Simões et.al.|[2507.11346](http://arxiv.org/abs/2507.11346)|null|
 |**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
 |**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
-|**2025-07-15**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
+|**2025-07-16**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
 |**2025-07-15**|**Internal Value Alignment in Large Language Models through Controlled Value Vector Activation**|Haoran Jin et.al.|[2507.11316](http://arxiv.org/abs/2507.11316)|null|
 |**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310](http://arxiv.org/abs/2507.11310)|null|
 |**2025-07-15**|**Dr.Copilot: A Multi-Agent Prompt Optimized Assistant for Improving Patient-Doctor Communication in Romanian**|Andrei Niculae et.al.|[2507.11299](http://arxiv.org/abs/2507.11299)|null|
@@ -951,7 +951,7 @@
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
 |**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
 |**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
-|**2025-07-14**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
+|**2025-07-16**|**Accurate generation of chemical reaction transition states by conditional flow matching**|Ping Tuo et.al.|[2507.10530](http://arxiv.org/abs/2507.10530)|null|
 |**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
 |**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
@@ -13151,7 +13151,7 @@
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
 |**2024-12-18**|**LLMs can realize combinatorial creativity: generating creative ideas via LLMs for scientific research**|Tianyang Gu et.al.|[2412.14141](http://arxiv.org/abs/2412.14141)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Video Understanding
 
@@ -14381,5 +14381,5 @@
 |**2024-12-12**|**Espresso: High Compression For Rich Extraction From Videos for Your Vision-Language Model**|Keunwoo Peter Yu et.al.|[2412.04729](http://arxiv.org/abs/2412.04729)|null|
 |**2024-12-05**|**Using Diffusion Priors for Video Amodal Segmentation**|Kaihua Chen et.al.|[2412.04623](http://arxiv.org/abs/2412.04623)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
