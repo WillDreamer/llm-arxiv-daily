@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 ## LLM Reasoning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -866,8 +866,8 @@ layout: default
 |**2025-07-17**|**HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models**|Ashray Gupta et.al.|[2507.13238](http://arxiv.org/abs/2507.13238)|null|
 |**2025-07-17**|**Enhancing Cross-task Transfer of Large Language Models via Activation Steering**|Xinyu Tang et.al.|[2507.13236](http://arxiv.org/abs/2507.13236)|null|
 |**2025-07-17**|**VITA: Vision-to-Action Flow Matching Policy**|Dechen Gao et.al.|[2507.13231](http://arxiv.org/abs/2507.13231)|null|
-|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
-|**2025-07-17**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|R. Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
+|**2025-07-18**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-18**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|Retief Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
 |**2025-07-17**|**Black Box Deployed -- Functional Criteria for Artificial Moral Agents in the LLM Era**|Matthew E. Brophy et.al.|[2507.13175](http://arxiv.org/abs/2507.13175)|null|
 |**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
 |**2025-07-17**|**Online Rounding for Set Cover under Subset Arrivals**|Jarosław Byrka et.al.|[2507.13159](http://arxiv.org/abs/2507.13159)|null|
@@ -885,7 +885,7 @@ layout: default
 |**2025-07-17**|**Teach Old SAEs New Domain Tricks with Boosting**|Nikita Koriagin et.al.|[2507.12990](http://arxiv.org/abs/2507.12990)|null|
 |**2025-07-17**|**A Distributed Generative AI Approach for Heterogeneous Multi-Domain Environments under Data Sharing constraints**|Youssef Tawfilis et.al.|[2507.12979](http://arxiv.org/abs/2507.12979)|null|
 |**2025-07-17**|**UniSLU: Unified Spoken Language Understanding from Heterogeneous Cross-Task Datasets**|Zhichao Sheng et.al.|[2507.12951](http://arxiv.org/abs/2507.12951)|null|
-|**2025-07-17**|**Insights into a radiology-specialised multimodal large language model with sparse autoencoders**|Kenza Bouzid et.al.|[2507.12950](http://arxiv.org/abs/2507.12950)|null|
+|**2025-07-18**|**Insights into a radiology-specialised multimodal large language model with sparse autoencoders**|Kenza Bouzid et.al.|[2507.12950](http://arxiv.org/abs/2507.12950)|null|
 |**2025-07-17**|**Probabilistic Soundness Guarantees in LLM Reasoning Chains**|Weiqiu You et.al.|[2507.12948](http://arxiv.org/abs/2507.12948)|null|
 |**2025-07-17**|**Analysis of Image-and-Text Uncertainty Propagation in Multimodal Large Language Models with Cardiac MR-Based Applications**|Yucheng Tang et.al.|[2507.12945](http://arxiv.org/abs/2507.12945)|null|
 |**2025-07-17**|**Unleashing Vision Foundation Models for Coronary Artery Segmentation: Parallel ViT-CNN Encoding and Variational Fusion**|Caixia Dong et.al.|[2507.12938](http://arxiv.org/abs/2507.12938)|null|
@@ -894,7 +894,7 @@ layout: default
 |**2025-07-17**|**Generalist Bimanual Manipulation via Foundation Video Diffusion Models**|Yao Feng et.al.|[2507.12898](http://arxiv.org/abs/2507.12898)|null|
 |**2025-07-17**|**DiffRhythm+: Controllable and Flexible Full-Length Song Generation with Preference Optimization**|Huakang Chen et.al.|[2507.12890](http://arxiv.org/abs/2507.12890)|null|
 |**2025-07-17**|**VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks**|Jian Yao et.al.|[2507.12885](http://arxiv.org/abs/2507.12885)|null|
-|**2025-07-17**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al.|[2507.12871](http://arxiv.org/abs/2507.12871)|null|
+|**2025-07-18**|**Generative Multi-Target Cross-Domain Recommendation**|Jinqiu Jin et.al.|[2507.12871](http://arxiv.org/abs/2507.12871)|null|
 |**2025-07-17**|**Supervised Fine Tuning on Curated Data is Reinforcement Learning (and can be improved)**|Chongli Qin et.al.|[2507.12856](http://arxiv.org/abs/2507.12856)|null|
 |**2025-07-17**|**DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning**|Rahel Rickenbach et.al.|[2507.12855](http://arxiv.org/abs/2507.12855)|null|
 |**2025-07-17**|**AnyCap Project: A Unified Framework, Dataset, and Benchmark for Controllable Omni-modal Captioning**|Yiming Ren et.al.|[2507.12841](http://arxiv.org/abs/2507.12841)|null|
@@ -914,7 +914,7 @@ layout: default
 |**2025-07-17**|**PinFM: Foundation Model for User Activity Sequences at a Billion-scale Visual Discovery Platform**|Xiangyi Chen et.al.|[2507.12704](http://arxiv.org/abs/2507.12704)|null|
 |**2025-07-17**|**Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images**|Zahra TehraniNasab et.al.|[2507.12698](http://arxiv.org/abs/2507.12698)|null|
 |**2025-07-16**|**Improving Drug Identification in Overdose Death Surveillance using Large Language Models**|Arthur J. Funnell et.al.|[2507.12679](http://arxiv.org/abs/2507.12679)|null|
-|**2025-07-16**|**ParaStudent: Generating and Evaluating Realistic Student Code by Teaching LLMs to Struggle**|Mihran Miroyan et.al.|[2507.12674](http://arxiv.org/abs/2507.12674)|null|
+|**2025-07-18**|**ParaStudent: Generating and Evaluating Realistic Student Code by Teaching LLMs to Struggle**|Mihran Miroyan et.al.|[2507.12674](http://arxiv.org/abs/2507.12674)|null|
 |**2025-07-16**|**The first open machine translation system for the Chechen language**|Abu-Viskhan A. Umishov et.al.|[2507.12672](http://arxiv.org/abs/2507.12672)|null|
 |**2025-07-16**|**Single Conversation Methodology: A Human-Centered Protocol for AI-Assisted Software Development**|Salvador D. Escobedo et.al.|[2507.12665](http://arxiv.org/abs/2507.12665)|null|
 |**2025-07-16**|**VLMgineer: Vision Language Models as Robotic Toolsmiths**|George Jiayuan Gao et.al.|[2507.12644](http://arxiv.org/abs/2507.12644)|null|
@@ -13310,7 +13310,7 @@ layout: default
 |**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952](http://arxiv.org/abs/2507.12952)|null|
 |**2025-07-17**|**FIQ: Fundamental Question Generation with the Integration of Question Embeddings for Video Question Answering**|Ju-Young Oh et.al.|[2507.12816](http://arxiv.org/abs/2507.12816)|null|
 |**2025-07-17**|**World Model-Based End-to-End Scene Generation for Accident Anticipation in Autonomous Driving**|Yanchen Guan et.al.|[2507.12762](http://arxiv.org/abs/2507.12762)|null|
-|**2025-07-16**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
+|**2025-07-18**|**DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition**|Hayat Ullah et.al.|[2507.12426](http://arxiv.org/abs/2507.12426)|null|
 |**2025-07-16**|**Calisthenics Skills Temporal Video Segmentation**|Antonio Finocchiaro et.al.|[2507.12245](http://arxiv.org/abs/2507.12245)|null|
 |**2025-07-15**|**UGC-VideoCaptioner: An Omni UGC Video Detail Caption Model and New Benchmarks**|Peiran Wu et.al.|[2507.11336](http://arxiv.org/abs/2507.11336)|null|
 |**2025-07-15**|**NarrLV: Towards a Comprehensive Narrative-Centric Evaluation for Long Video Generation Models**|X. Feng et.al.|[2507.11245](http://arxiv.org/abs/2507.11245)|null|
@@ -13340,7 +13340,7 @@ layout: default
 |**2025-07-14**|**Democratizing High-Fidelity Co-Speech Gesture Video Generation**|Xu Yang et.al.|[2507.06812](http://arxiv.org/abs/2507.06812)|null|
 |**2025-07-09**|**PromptTea: Let Prompts Tell TeaCache the Optimal Threshold**|Zishen Huang et.al.|[2507.06739](http://arxiv.org/abs/2507.06739)|null|
 |**2025-07-09**|**FIFA: Unified Faithfulness Evaluation Framework for Text-to-Video and Video-to-Text Generation**|Liqiang Jing et.al.|[2507.06523](http://arxiv.org/abs/2507.06523)|null|
-|**2025-07-08**|**Hierarchical Multi-Stage Transformer Architecture for Context-Aware Temporal Action Localization**|Hayat Ullah et.al.|[2507.06411](http://arxiv.org/abs/2507.06411)|null|
+|**2025-07-18**|**Hierarchical Multi-Stage Transformer Architecture for Context-Aware Temporal Action Localization**|Hayat Ullah et.al.|[2507.06411](http://arxiv.org/abs/2507.06411)|null|
 |**2025-07-08**|**Bridging Sequential Deep Operator Network and Video Diffusion: Residual Refinement of Spatio-Temporal PDE Solutions**|Jaewan Park et.al.|[2507.06133](http://arxiv.org/abs/2507.06133)|null|
 |**2025-07-09**|**Omni-Video: Democratizing Unified Video Understanding and Generation**|Zhiyu Tan et.al.|[2507.06119](http://arxiv.org/abs/2507.06119)|null|
 |**2025-07-08**|**MCAM: Multimodal Causal Analysis Model for Ego-Vehicle-Level Driving Video Understanding**|Tongtong Cheng et.al.|[2507.06072](http://arxiv.org/abs/2507.06072)|null|
